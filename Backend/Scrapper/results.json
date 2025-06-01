@@ -1,0 +1,7477 @@
+[
+  {
+    "name": "AADITHYA MURALIDHARAN BALAKRISHNAN",
+    "roll": "2K21/CO/01",
+    "cgpa": "7.71"
+  },
+  {
+    "name": "AADITYA VERMA",
+    "roll": "2K21/CO/02",
+    "cgpa": "5.66"
+  },
+  {
+    "name": "AADITYA VIR SINGH",
+    "roll": "2K21/CO/03",
+    "cgpa": "7.85"
+  },
+  {
+    "name": "AASTVIK GOEL",
+    "roll": "2K21/CO/05",
+    "cgpa": "9.38"
+  },
+  {
+    "name": "AAYUSH KASHYAP",
+    "roll": "2K21/CO/06",
+    "cgpa": "8.92"
+  },
+  {
+    "name": "ABDULLAH HANEEF",
+    "roll": "2K21/CO/07",
+    "cgpa": "8.99"
+  },
+  {
+    "name": "ABHIMANYU",
+    "roll": "2K21/CO/08",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "ABHINAV DAHIYA",
+    "roll": "2K21/CO/09",
+    "cgpa": "9.18"
+  },
+  {
+    "name": "ABHINAV SHARMA",
+    "roll": "2K21/CO/10",
+    "cgpa": "6.29"
+  },
+  {
+    "name": "ABHINAV SINGH",
+    "roll": "2K21/CO/11",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "ABHINAV SINHA",
+    "roll": "2K21/CO/12",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "ABHISHEK",
+    "roll": "2K21/CO/13",
+    "cgpa": "7.85"
+  },
+  {
+    "name": "ABHISHEK AGGARWAL",
+    "roll": "2K21/CO/14",
+    "cgpa": "9.00"
+  },
+  {
+    "name": "ABHISHEK CHAUHAN",
+    "roll": "2K21/CO/15",
+    "cgpa": "6.71"
+  },
+  {
+    "name": "ABHISHEK GUPTA",
+    "roll": "2K21/CO/16",
+    "cgpa": "4.60"
+  },
+  {
+    "name": "ABHISHEK KUMAR",
+    "roll": "2K21/CO/17",
+    "cgpa": "7.83"
+  },
+  {
+    "name": "ABHISHEK PANDA",
+    "roll": "2K21/CO/19",
+    "cgpa": "7.19"
+  },
+  {
+    "name": "ADARSH KUMAR",
+    "roll": "2K21/CO/20",
+    "cgpa": "7.10"
+  },
+  {
+    "name": "ADITI CHAUHAN",
+    "roll": "2K21/CO/22",
+    "cgpa": "9.36"
+  },
+  {
+    "name": "ADITYA GARG",
+    "roll": "2K21/CO/23",
+    "cgpa": "9.17"
+  },
+  {
+    "name": "ADITYA GOYAL",
+    "roll": "2K21/CO/24",
+    "cgpa": "8.67"
+  },
+  {
+    "name": "ADITYA KESARWANI",
+    "roll": "2K21/CO/25",
+    "cgpa": "6.46"
+  },
+  {
+    "name": "ADITYA KUMAR",
+    "roll": "2K21/CO/26",
+    "cgpa": "7.66"
+  },
+  {
+    "name": "ADITYA MADAN",
+    "roll": "2K21/CO/27",
+    "cgpa": "8.02"
+  },
+  {
+    "name": "ADITYA MITTAL",
+    "roll": "2K21/CO/28",
+    "cgpa": "9.13"
+  },
+  {
+    "name": "ADITYA RAJ",
+    "roll": "2K21/CO/29",
+    "cgpa": "7.64"
+  },
+  {
+    "name": "ADITYA SHAH",
+    "roll": "2K21/CO/30",
+    "cgpa": "5.15"
+  },
+  {
+    "name": "ADITYA TIWARY",
+    "roll": "2K21/CO/31",
+    "cgpa": "7.39"
+  },
+  {
+    "name": "ADITYA TOPPO",
+    "roll": "2K21/CO/32",
+    "cgpa": "7.32"
+  },
+  {
+    "name": "AGRIM GUPTA",
+    "roll": "2K21/CO/33",
+    "cgpa": "8.35"
+  },
+  {
+    "name": "AHSAAN AHMAD AHANGER",
+    "roll": "2K21/CO/35",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "AJAY",
+    "roll": "2K21/CO/36",
+    "cgpa": "7.74"
+  },
+  {
+    "name": "AKASH",
+    "roll": "2K21/CO/37",
+    "cgpa": "6.49"
+  },
+  {
+    "name": "AKASH BHATT",
+    "roll": "2K21/CO/38",
+    "cgpa": "8.58"
+  },
+  {
+    "name": "AKASH JINDAL",
+    "roll": "2K21/CO/39",
+    "cgpa": "8.70"
+  },
+  {
+    "name": "AKASHDEEP",
+    "roll": "2K21/CO/40",
+    "cgpa": "7.59"
+  },
+  {
+    "name": "AKSHAT JHA",
+    "roll": "2K21/CO/41",
+    "cgpa": "8.42"
+  },
+  {
+    "name": "ALI BOUSSAKSOU",
+    "roll": "2K21/CO/42",
+    "cgpa": "6.86"
+  },
+  {
+    "name": "ALLEN TIGGA",
+    "roll": "2K21/CO/44",
+    "cgpa": "7.90"
+  },
+  {
+    "name": "ALOK KUMAR MAURYA",
+    "roll": "2K21/CO/45",
+    "cgpa": "7.59"
+  },
+  {
+    "name": "AMAAN AKHTAR",
+    "roll": "2K21/CO/46",
+    "cgpa": "9.16"
+  },
+  {
+    "name": "AMAN",
+    "roll": "2K21/CO/47",
+    "cgpa": "7.72"
+  },
+  {
+    "name": "AMAN HOODA",
+    "roll": "2K21/CO/49",
+    "cgpa": "6.40"
+  },
+  {
+    "name": "AMAN KUMAR",
+    "roll": "2K21/CO/50",
+    "cgpa": "6.85"
+  },
+  {
+    "name": "AMAN KUMAR SINGH",
+    "roll": "2K21/CO/51",
+    "cgpa": "8.84"
+  },
+  {
+    "name": "AMAN KUMAR YADAV",
+    "roll": "2K21/CO/52",
+    "cgpa": "8.07"
+  },
+  {
+    "name": "AMAN MAURYA",
+    "roll": "2K21/CO/53",
+    "cgpa": "8.17"
+  },
+  {
+    "name": "AMAN PANCHAL",
+    "roll": "2K21/CO/54",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "AMARJEET SINGH",
+    "roll": "2K21/CO/55",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "AMIT MEENA",
+    "roll": "2K21/CO/56",
+    "cgpa": "6.42"
+  },
+  {
+    "name": "AMRIT BASHYAL",
+    "roll": "2K21/CO/57",
+    "cgpa": "7.30"
+  },
+  {
+    "name": "ANANAY GUPTA",
+    "roll": "2K21/CO/58",
+    "cgpa": "6.86"
+  },
+  {
+    "name": "ANANYA GOEL",
+    "roll": "2K21/CO/59",
+    "cgpa": "9.51"
+  },
+  {
+    "name": "ANAS AHMAD",
+    "roll": "2K21/CO/60",
+    "cgpa": "8.77"
+  },
+  {
+    "name": "ANIKET JAYSWAL",
+    "roll": "2K21/CO/62",
+    "cgpa": "8.92"
+  },
+  {
+    "name": "ANIKET KUSHWAHA",
+    "roll": "2K21/CO/63",
+    "cgpa": "7.50"
+  },
+  {
+    "name": "ANJALI MEENA",
+    "roll": "2K21/CO/65",
+    "cgpa": "7.80"
+  },
+  {
+    "name": "ANKAJ JAISWAL",
+    "roll": "2K21/CO/66",
+    "cgpa": "7.83"
+  },
+  {
+    "name": "ANKIT KUMAR",
+    "roll": "2K21/CO/68",
+    "cgpa": "8.23"
+  },
+  {
+    "name": "ANKUR GAUTAM",
+    "roll": "2K21/CO/69",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "ANKUSH TYAGI",
+    "roll": "2K21/CO/70",
+    "cgpa": "8.93"
+  },
+  {
+    "name": "ANMOLPREET SINGH",
+    "roll": "2K21/CO/71",
+    "cgpa": "8.28"
+  },
+  {
+    "name": "ANSH GOEL",
+    "roll": "2K21/CO/72",
+    "cgpa": "8.74"
+  },
+  {
+    "name": "ANSH PUNIA",
+    "roll": "2K21/CO/73",
+    "cgpa": "6.96"
+  },
+  {
+    "name": "ANSHITA GARG",
+    "roll": "2K21/CO/75",
+    "cgpa": "8.65"
+  },
+  {
+    "name": "ANSHU PAL",
+    "roll": "2K21/CO/76",
+    "cgpa": "8.10"
+  },
+  {
+    "name": "ANSHUL AGRAWAL",
+    "roll": "2K21/CO/77",
+    "cgpa": "8.97"
+  },
+  {
+    "name": "ANSHUL SAGAR",
+    "roll": "2K21/CO/78",
+    "cgpa": "6.83"
+  },
+  {
+    "name": "ANSHUMAN MUDGAL",
+    "roll": "2K21/CO/79",
+    "cgpa": "6.43"
+  },
+  {
+    "name": "ANUBHAV DEOLI",
+    "roll": "2K21/CO/80",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "ANUBHAV PAL",
+    "roll": "2K21/CO/81",
+    "cgpa": "7.13"
+  },
+  {
+    "name": "ANUGRAH S",
+    "roll": "2K21/CO/82",
+    "cgpa": "8.99"
+  },
+  {
+    "name": "ANUJ KHURANA",
+    "roll": "2K21/CO/83",
+    "cgpa": "9.15"
+  },
+  {
+    "name": "ANUKUL POKHAREL",
+    "roll": "2K21/CO/84",
+    "cgpa": "8.93"
+  },
+  {
+    "name": "ANUPAM MAURYA",
+    "roll": "2K21/CO/85",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "ANURAG KAMRA",
+    "roll": "2K21/CO/86",
+    "cgpa": "9.39"
+  },
+  {
+    "name": "ANURAG SAH",
+    "roll": "2K21/CO/87",
+    "cgpa": "7.75"
+  },
+  {
+    "name": "ARCHIT ASHRI",
+    "roll": "2K21/CO/89",
+    "cgpa": "6.57"
+  },
+  {
+    "name": "ARIHANT JAIN",
+    "roll": "2K21/CO/90",
+    "cgpa": "7.25"
+  },
+  {
+    "name": "ARIN GARG",
+    "roll": "2K21/CO/91",
+    "cgpa": "9.29"
+  },
+  {
+    "name": "ARINDAM RAO",
+    "roll": "2K21/CO/92",
+    "cgpa": "6.93"
+  },
+  {
+    "name": "ARKOJIT DAS",
+    "roll": "2K21/CO/94",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "ARMAAN GUPTA",
+    "roll": "2K21/CO/95",
+    "cgpa": "9.42"
+  },
+  {
+    "name": "ARNAV AGARWAL",
+    "roll": "2K21/CO/96",
+    "cgpa": "9.07"
+  },
+  {
+    "name": "ARNAV CHAUDHARY",
+    "roll": "2K21/CO/97",
+    "cgpa": "8.96"
+  },
+  {
+    "name": "ARNAV SHARMA",
+    "roll": "2K21/CO/98",
+    "cgpa": "8.81"
+  },
+  {
+    "name": "ARNAV SINGH",
+    "roll": "2K21/CO/99",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "ARSH ROY",
+    "roll": "2K21/CO/101",
+    "cgpa": "7.55"
+  },
+  {
+    "name": "ARYAN ADLAKHA",
+    "roll": "2K21/CO/103",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "ARYAN JAIN",
+    "roll": "2K21/CO/104",
+    "cgpa": "8.01"
+  },
+  {
+    "name": "ARYAVRAT CHAUHAN",
+    "roll": "2K21/CO/105",
+    "cgpa": "6.48"
+  },
+  {
+    "name": "ASHISH JHA",
+    "roll": "2K21/CO/107",
+    "cgpa": "9.01"
+  },
+  {
+    "name": "ASHISH KUMAR",
+    "roll": "2K21/CO/108",
+    "cgpa": "7.49"
+  },
+  {
+    "name": "ASHISH KUMAR",
+    "roll": "2K21/CO/109",
+    "cgpa": "7.97"
+  },
+  {
+    "name": "ASHISH KUMAR",
+    "roll": "2K21/CO/110",
+    "cgpa": "7.78"
+  },
+  {
+    "name": "ASHISH SINGH",
+    "roll": "2K21/CO/112",
+    "cgpa": "7.01"
+  },
+  {
+    "name": "ASHNA MITTAL",
+    "roll": "2K21/CO/113",
+    "cgpa": "9.43"
+  },
+  {
+    "name": "ASHUTOASH",
+    "roll": "2K21/CO/114",
+    "cgpa": "8.17"
+  },
+  {
+    "name": "ASHUTOSH",
+    "roll": "2K21/CO/115",
+    "cgpa": "7.90"
+  },
+  {
+    "name": "ASHUTOSH KUMAR SINGH",
+    "roll": "2K21/CO/116",
+    "cgpa": "6.57"
+  },
+  {
+    "name": "ATISHAY SONI",
+    "roll": "2K21/CO/117",
+    "cgpa": "8.00"
+  },
+  {
+    "name": "ATUL KUMAR CHAUDHARY",
+    "roll": "2K21/CO/118",
+    "cgpa": "9.07"
+  },
+  {
+    "name": "AVIRAL KUMAR",
+    "roll": "2K21/CO/120",
+    "cgpa": "7.41"
+  },
+  {
+    "name": "AVNEESH KUMAR PATHAK",
+    "roll": "2K21/CO/121",
+    "cgpa": "8.82"
+  },
+  {
+    "name": "AVNI AMIT KUMAR",
+    "roll": "2K21/CO/122",
+    "cgpa": "9.62"
+  },
+  {
+    "name": "AYAN MAITY",
+    "roll": "2K21/CO/123",
+    "cgpa": "8.07"
+  },
+  {
+    "name": "AYUSH AGGARWAL",
+    "roll": "2K21/CO/124",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "AYUSH GARG",
+    "roll": "2K21/CO/125",
+    "cgpa": "7.31"
+  },
+  {
+    "name": "AYUSH SINGH",
+    "roll": "2K21/CO/127",
+    "cgpa": "7.97"
+  },
+  {
+    "name": "AYUSH SRIVASTAVA",
+    "roll": "2K21/CO/128",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "AZMAT MATIN SHADAB",
+    "roll": "2K21/CO/129",
+    "cgpa": "7.27"
+  },
+  {
+    "name": "BHANU PRATAP",
+    "roll": "2K21/CO/132",
+    "cgpa": "8.28"
+  },
+  {
+    "name": "BHAVYA SINGH",
+    "roll": "2K21/CO/133",
+    "cgpa": "8.91"
+  },
+  {
+    "name": "BHUVAN PAREWA",
+    "roll": "2K21/CO/134",
+    "cgpa": "6.62"
+  },
+  {
+    "name": "BHUVANSH BEHAL",
+    "roll": "2K21/CO/135",
+    "cgpa": "8.82"
+  },
+  {
+    "name": "BINCY SEBASTIAN",
+    "roll": "2K21/CO/136",
+    "cgpa": "9.44"
+  },
+  {
+    "name": "CHATRA RAJ REGMI",
+    "roll": "2K21/CO/138",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "CHESHTA KAPOOR",
+    "roll": "2K21/CO/139",
+    "cgpa": "9.80"
+  },
+  {
+    "name": "CHIHLA KAPIL NARANBHAI",
+    "roll": "2K21/CO/140",
+    "cgpa": "8.64"
+  },
+  {
+    "name": "CHINMAY BOKOLIA",
+    "roll": "2K21/CO/141",
+    "cgpa": "7.53"
+  },
+  {
+    "name": "DAKSH KHULLAR",
+    "roll": "2K21/CO/142",
+    "cgpa": "8.53"
+  },
+  {
+    "name": "DANISH SOHAIL",
+    "roll": "2K21/CO/143",
+    "cgpa": "6.65"
+  },
+  {
+    "name": "DEEPAK DASS",
+    "roll": "2K21/CO/144",
+    "cgpa": "6.89"
+  },
+  {
+    "name": "DEEPAK KUMAR",
+    "roll": "2K21/CO/145",
+    "cgpa": "6.77"
+  },
+  {
+    "name": "DEEPAK KUMAR",
+    "roll": "2K21/CO/146",
+    "cgpa": "8.68"
+  },
+  {
+    "name": "DEEPAKSHI UJJWAL",
+    "roll": "2K21/CO/147",
+    "cgpa": "8.77"
+  },
+  {
+    "name": "DEEPANSHU",
+    "roll": "2K21/CO/148",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "DEV GUPTA",
+    "roll": "2K21/CO/149",
+    "cgpa": "7.59"
+  },
+  {
+    "name": "DEVANSH DINESH WASSISTA",
+    "roll": "2K21/CO/150",
+    "cgpa": "7.80"
+  },
+  {
+    "name": "DEVANSH GUPTA",
+    "roll": "2K21/CO/151",
+    "cgpa": "8.80"
+  },
+  {
+    "name": "DEVESH MITTAL",
+    "roll": "2K21/CO/152",
+    "cgpa": "8.64"
+  },
+  {
+    "name": "DHRITIRAJ MEDHI",
+    "roll": "2K21/CO/153",
+    "cgpa": "6.45"
+  },
+  {
+    "name": "DHRUV",
+    "roll": "2K21/CO/154",
+    "cgpa": "8.45"
+  },
+  {
+    "name": "DHRUV ARORA",
+    "roll": "2K21/CO/155",
+    "cgpa": "7.91"
+  },
+  {
+    "name": "DHRUV KAPOOR",
+    "roll": "2K21/CO/156",
+    "cgpa": "6.01"
+  },
+  {
+    "name": "DHRUV KATYAL",
+    "roll": "2K21/CO/157",
+    "cgpa": "8.67"
+  },
+  {
+    "name": "DHWANI SINGH",
+    "roll": "2K21/CO/159",
+    "cgpa": "8.57"
+  },
+  {
+    "name": "DIVYA KANT GAUTAM",
+    "roll": "2K21/CO/160",
+    "cgpa": "8.26"
+  },
+  {
+    "name": "DIVYANS C KASHYAP",
+    "roll": "2K21/CO/161",
+    "cgpa": "7.69"
+  },
+  {
+    "name": "DIVYANSHI",
+    "roll": "2K21/CO/163",
+    "cgpa": "8.11"
+  },
+  {
+    "name": "DRUTI CHOUDHURY",
+    "roll": "2K21/CO/164",
+    "cgpa": "6.93"
+  },
+  {
+    "name": "EMAD ABD AL FATAH KAID SAEID",
+    "roll": "2K21/CO/165",
+    "cgpa": "8.40"
+  },
+  {
+    "name": "FARNEET SINGH",
+    "roll": "2K21/CO/166",
+    "cgpa": "8.68"
+  },
+  {
+    "name": "GAGANDEEP SINGH",
+    "roll": "2K21/CO/167",
+    "cgpa": "7.33"
+  },
+  {
+    "name": "GARV LUTHRA",
+    "roll": "2K21/CO/168",
+    "cgpa": "8.97"
+  },
+  {
+    "name": "GAURAV KUMAR MEENA",
+    "roll": "2K21/CO/169",
+    "cgpa": "6.63"
+  },
+  {
+    "name": "GAURAV SINGH",
+    "roll": "2K21/CO/170",
+    "cgpa": "7.18"
+  },
+  {
+    "name": "GAURISH SIWAN",
+    "roll": "2K21/CO/171",
+    "cgpa": "7.79"
+  },
+  {
+    "name": "GYANENDAR KUMAR",
+    "roll": "2K21/CO/173",
+    "cgpa": "8.89"
+  },
+  {
+    "name": "GYANESH CHAURASIA",
+    "roll": "2K21/CO/174",
+    "cgpa": "7.84"
+  },
+  {
+    "name": "HAIDER MUSTAFA NAQVI",
+    "roll": "2K21/CO/175",
+    "cgpa": "7.71"
+  },
+  {
+    "name": "HARISH",
+    "roll": "2K21/CO/176",
+    "cgpa": "7.49"
+  },
+  {
+    "name": "HARSH JHA",
+    "roll": "2K21/CO/177",
+    "cgpa": "9.22"
+  },
+  {
+    "name": "HARSH KUMAR",
+    "roll": "2K21/CO/178",
+    "cgpa": "9.15"
+  },
+  {
+    "name": "HARSH KUMAR",
+    "roll": "2K21/CO/179",
+    "cgpa": "7.76"
+  },
+  {
+    "name": "HARSH KUMAR J",
+    "roll": "2K21/CO/180",
+    "cgpa": "7.61"
+  },
+  {
+    "name": "HARSH SISODIA",
+    "roll": "2K21/CO/181",
+    "cgpa": "6.65"
+  },
+  {
+    "name": "HARSHDEEP JAYWANT",
+    "roll": "2K21/CO/182",
+    "cgpa": "8.15"
+  },
+  {
+    "name": "HARSHIT",
+    "roll": "2K21/CO/183",
+    "cgpa": "8.50"
+  },
+  {
+    "name": "HARSHIT CHOPRA",
+    "roll": "2K21/CO/184",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "HARSHIT DEVAL",
+    "roll": "2K21/CO/185",
+    "cgpa": "6.74"
+  },
+  {
+    "name": "HARSHIT GUPTA",
+    "roll": "2K21/CO/186",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "HARSHIT JAIN",
+    "roll": "2K21/CO/187",
+    "cgpa": "8.87"
+  },
+  {
+    "name": "HARSHIT JAIN",
+    "roll": "2K21/CO/188",
+    "cgpa": "8.95"
+  },
+  {
+    "name": "HARSHIT JAIN",
+    "roll": "2K21/CO/189",
+    "cgpa": "8.24"
+  },
+  {
+    "name": "HARSHIT KUMAR",
+    "roll": "2K21/CO/190",
+    "cgpa": "8.18"
+  },
+  {
+    "name": "HARSHIT MALHOTRA",
+    "roll": "2K21/CO/191",
+    "cgpa": "8.01"
+  },
+  {
+    "name": "HARSHIT NAAGAR",
+    "roll": "2K21/CO/192",
+    "cgpa": "8.74"
+  },
+  {
+    "name": "HARSHIT VERMA",
+    "roll": "2K21/CO/193",
+    "cgpa": "7.15"
+  },
+  {
+    "name": "HEMANG KRISH",
+    "roll": "2K21/CO/195",
+    "cgpa": "6.95"
+  },
+  {
+    "name": "HEMANT GOYAL",
+    "roll": "2K21/CO/196",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "HEMANT PANCHARIYA",
+    "roll": "2K21/CO/197",
+    "cgpa": "9.48"
+  },
+  {
+    "name": "HIMAN NAYAK",
+    "roll": "2K21/CO/198",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "HIMANSHI",
+    "roll": "2K21/CO/199",
+    "cgpa": "8.56"
+  },
+  {
+    "name": "HIMANSHU",
+    "roll": "2K21/CO/200",
+    "cgpa": "8.18"
+  },
+  {
+    "name": "HIMANSHU",
+    "roll": "2K21/CO/201",
+    "cgpa": "7.52"
+  },
+  {
+    "name": "HIMANSHU BAURAI",
+    "roll": "2K21/CO/202",
+    "cgpa": "9.14"
+  },
+  {
+    "name": "HIMANSHU MAAN",
+    "roll": "2K21/CO/203",
+    "cgpa": "8.75"
+  },
+  {
+    "name": "HIMANSHU SHERWAN",
+    "roll": "2K21/CO/204",
+    "cgpa": "7.37"
+  },
+  {
+    "name": "HITEN MALHOTRA",
+    "roll": "2K21/CO/206",
+    "cgpa": "9.46"
+  },
+  {
+    "name": "ISHAN JHA",
+    "roll": "2K21/CO/207",
+    "cgpa": "8.01"
+  },
+  {
+    "name": "JAI KUMAR MEENA",
+    "roll": "2K21/CO/209",
+    "cgpa": "5.83"
+  },
+  {
+    "name": "JANHVI AGRAWAL",
+    "roll": "2K21/CO/211",
+    "cgpa": "9.40"
+  },
+  {
+    "name": "JATIN",
+    "roll": "2K21/CO/212",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "JATIN YADAV",
+    "roll": "2K21/CO/213",
+    "cgpa": "8.86"
+  },
+  {
+    "name": "JAY KUMAR BHARTI",
+    "roll": "2K21/CO/214",
+    "cgpa": "5.57"
+  },
+  {
+    "name": "JAYESH JHA",
+    "roll": "2K21/CO/215",
+    "cgpa": "8.86"
+  },
+  {
+    "name": "JINAY BOTHRA",
+    "roll": "2K21/CO/216",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "KANGAN GUPTA",
+    "roll": "2K21/CO/217",
+    "cgpa": "9.80"
+  },
+  {
+    "name": "KANHAIYA SINGH",
+    "roll": "2K21/CO/218",
+    "cgpa": "7.96"
+  },
+  {
+    "name": "KANISHK JHA",
+    "roll": "2K21/CO/219",
+    "cgpa": "7.19"
+  },
+  {
+    "name": "KANISHKA BRIJESH JOSHI",
+    "roll": "2K21/CO/220",
+    "cgpa": "8.63"
+  },
+  {
+    "name": "KANISHQ",
+    "roll": "2K21/CO/222",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "KAPIL KUMAR",
+    "roll": "2K21/CO/223",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "KARANSINH RANVIRSINH RATHOD",
+    "roll": "2K21/CO/224",
+    "cgpa": "7.56"
+  },
+  {
+    "name": "KARTIK KASANA",
+    "roll": "2K21/CO/225",
+    "cgpa": "8.41"
+  },
+  {
+    "name": "KARTIK NAGPAL",
+    "roll": "2K21/CO/226",
+    "cgpa": "8.29"
+  },
+  {
+    "name": "KARTIK SANGWAN",
+    "roll": "2K21/CO/227",
+    "cgpa": "6.83"
+  },
+  {
+    "name": "KARTIK UPADHYAY",
+    "roll": "2K21/CO/228",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "KARTIKAY AZAD",
+    "roll": "2K21/CO/229",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "KARTIKEY BHARDWAJ",
+    "roll": "2K21/CO/230",
+    "cgpa": "7.34"
+  },
+  {
+    "name": "KARTIKEY SAXENA",
+    "roll": "2K21/CO/231",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "KARUNYA SEHGAL",
+    "roll": "2K21/CO/232",
+    "cgpa": "7.87"
+  },
+  {
+    "name": "KAUSHAL KUMAR",
+    "roll": "2K21/CO/233",
+    "cgpa": "5.87"
+  },
+  {
+    "name": "KAUSHAL KUMAR",
+    "roll": "2K21/CO/234",
+    "cgpa": "7.58"
+  },
+  {
+    "name": "KAUSHAL KUMAR THAKUR",
+    "roll": "2K21/CO/235",
+    "cgpa": "7.71"
+  },
+  {
+    "name": "KESHAV KAPOOR",
+    "roll": "2K21/CO/237",
+    "cgpa": "7.31"
+  },
+  {
+    "name": "KESHAV PRAKASH SHARMA",
+    "roll": "2K21/CO/238",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "KHUSHAL PABRI",
+    "roll": "2K21/CO/239",
+    "cgpa": "8.31"
+  },
+  {
+    "name": "KHUSHPREET SINGH",
+    "roll": "2K21/CO/240",
+    "cgpa": "8.69"
+  },
+  {
+    "name": "KINZANG TOBGAY",
+    "roll": "2K21/CO/241",
+    "cgpa": "8.45"
+  },
+  {
+    "name": "KOMAL MEENA",
+    "roll": "2K21/CO/242",
+    "cgpa": "6.71"
+  },
+  {
+    "name": "KRISHNA PODDAR",
+    "roll": "2K21/CO/243",
+    "cgpa": "9.58"
+  },
+  {
+    "name": "KRISHNANSHU BANSAL",
+    "roll": "2K21/CO/244",
+    "cgpa": "7.56"
+  },
+  {
+    "name": "KRITI ARORA",
+    "roll": "2K21/CO/245",
+    "cgpa": "6.75"
+  },
+  {
+    "name": "KUMAR SU PRASHANT",
+    "roll": "2K21/CO/247",
+    "cgpa": "8.19"
+  },
+  {
+    "name": "KUNAL",
+    "roll": "2K21/CO/248",
+    "cgpa": "8.40"
+  },
+  {
+    "name": "KUNAL SHARMA",
+    "roll": "2K21/CO/250",
+    "cgpa": "8.93"
+  },
+  {
+    "name": "KUNAL SINGHAL",
+    "roll": "2K21/CO/251",
+    "cgpa": "7.32"
+  },
+  {
+    "name": "LAKSHAY",
+    "roll": "2K21/CO/253",
+    "cgpa": "7.83"
+  },
+  {
+    "name": "LAKSHAY DABAS",
+    "roll": "2K21/CO/254",
+    "cgpa": "7.21"
+  },
+  {
+    "name": "LAKSHAY KUMAR",
+    "roll": "2K21/CO/255",
+    "cgpa": "7.61"
+  },
+  {
+    "name": "LAKSHAY KUMAR SINGH",
+    "roll": "2K21/CO/256",
+    "cgpa": "8.87"
+  },
+  {
+    "name": "LAKSHAY NIJHAWAN",
+    "roll": "2K21/CO/257",
+    "cgpa": "9.38"
+  },
+  {
+    "name": "LAKSHYA",
+    "roll": "2K21/CO/258",
+    "cgpa": "7.73"
+  },
+  {
+    "name": "LAKSHYA VERMA",
+    "roll": "2K21/CO/259",
+    "cgpa": "9.46"
+  },
+  {
+    "name": "LALHMANGAIHSANGA",
+    "roll": "2K21/CO/260",
+    "cgpa": "6.38"
+  },
+  {
+    "name": "MADHAV GUPTA",
+    "roll": "2K21/CO/261",
+    "cgpa": "9.41"
+  },
+  {
+    "name": "MADHAV GUPTA",
+    "roll": "2K21/CO/262",
+    "cgpa": "9.25"
+  },
+  {
+    "name": "MAHENDRA MAJHI",
+    "roll": "2K21/CO/263",
+    "cgpa": "8.73"
+  },
+  {
+    "name": "MANAN GAUTAM",
+    "roll": "2K21/CO/264",
+    "cgpa": "7.16"
+  },
+  {
+    "name": "MANAN MAURYA",
+    "roll": "2K21/CO/266",
+    "cgpa": "9.49"
+  },
+  {
+    "name": "MANAV CHHABRA",
+    "roll": "2K21/CO/267",
+    "cgpa": "8.02"
+  },
+  {
+    "name": "MANEESH KUMAR",
+    "roll": "2K21/CO/268",
+    "cgpa": "7.10"
+  },
+  {
+    "name": "MANISH",
+    "roll": "2K21/CO/269",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "MANISH",
+    "roll": "2K21/CO/270",
+    "cgpa": "8.01"
+  },
+  {
+    "name": "MANJEET",
+    "roll": "2K21/CO/271",
+    "cgpa": "7.92"
+  },
+  {
+    "name": "MANOJ",
+    "roll": "2K21/CO/272",
+    "cgpa": "8.66"
+  },
+  {
+    "name": "MANTHAN KUMAR",
+    "roll": "2K21/CO/273",
+    "cgpa": "8.06"
+  },
+  {
+    "name": "MANTHAN SINGH",
+    "roll": "2K21/CO/274",
+    "cgpa": "8.32"
+  },
+  {
+    "name": "MAYANK",
+    "roll": "2K21/CO/275",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "MAYANK JOSHI",
+    "roll": "2K21/CO/276",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "Mayank Kumar",
+    "roll": "2K21/CO/277",
+    "cgpa": "6.85"
+  },
+  {
+    "name": "MAYANK ROHILLA",
+    "roll": "2K21/CO/278",
+    "cgpa": "8.94"
+  },
+  {
+    "name": "MAYUR SIWAS",
+    "roll": "2K21/CO/279",
+    "cgpa": "6.69"
+  },
+  {
+    "name": "MD SAEID ANWAR",
+    "roll": "2K21/CO/280",
+    "cgpa": "8.14"
+  },
+  {
+    "name": "MD SHAHNWAZ",
+    "roll": "2K21/CO/281",
+    "cgpa": "8.02"
+  },
+  {
+    "name": "MEENAKSHI",
+    "roll": "2K21/CO/282",
+    "cgpa": "7.24"
+  },
+  {
+    "name": "MILIND MOHANPURIA",
+    "roll": "2K21/CO/283",
+    "cgpa": "7.59"
+  },
+  {
+    "name": "MITALI MAHESHWARI",
+    "roll": "2K21/CO/284",
+    "cgpa": "8.45"
+  },
+  {
+    "name": "MOHAK BANSAL",
+    "roll": "2K21/CO/285",
+    "cgpa": "5.20"
+  },
+  {
+    "name": "MOHAMMAD ALTAB",
+    "roll": "2K21/CO/286",
+    "cgpa": "7.36"
+  },
+  {
+    "name": "MOHAMMAD SAMEER",
+    "roll": "2K21/CO/287",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "MOHAMMED SAQIB MASOOD",
+    "roll": "2K21/CO/288",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "MOHD QASIM",
+    "roll": "2K21/CO/289",
+    "cgpa": "8.17"
+  },
+  {
+    "name": "MOHIT GUPTA",
+    "roll": "2K21/CO/290",
+    "cgpa": "8.54"
+  },
+  {
+    "name": "MRINAL DEB",
+    "roll": "2K21/CO/292",
+    "cgpa": "8.80"
+  },
+  {
+    "name": "MRITUINJAY SHAHI",
+    "roll": "2K21/CO/293",
+    "cgpa": "9.08"
+  },
+  {
+    "name": "MUKUL DEV",
+    "roll": "2K21/CO/295",
+    "cgpa": "9.22"
+  },
+  {
+    "name": "MUNNA KUMAR PANDIT",
+    "roll": "2K21/CO/296",
+    "cgpa": "5.39"
+  },
+  {
+    "name": "MURILO JESUS JOAQUIM",
+    "roll": "2K21/CO/297",
+    "cgpa": "6.72"
+  },
+  {
+    "name": "NAMAN PATHAK",
+    "roll": "2K21/CO/298",
+    "cgpa": "8.80"
+  },
+  {
+    "name": "NAND KISHORE SONI",
+    "roll": "2K21/CO/299",
+    "cgpa": "8.47"
+  },
+  {
+    "name": "NAZIMUL ISLAM",
+    "roll": "2K21/CO/300",
+    "cgpa": "7.90"
+  },
+  {
+    "name": "NIKHIL",
+    "roll": "2K21/CO/301",
+    "cgpa": "7.36"
+  },
+  {
+    "name": "NIKHIL DHARRA",
+    "roll": "2K21/CO/302",
+    "cgpa": "4.13"
+  },
+  {
+    "name": "NIKHIL KANSOTIA",
+    "roll": "2K21/CO/304",
+    "cgpa": "8.38"
+  },
+  {
+    "name": "NIKHIL MEENA",
+    "roll": "2K21/CO/305",
+    "cgpa": "7.18"
+  },
+  {
+    "name": "NIKITA NEGI",
+    "roll": "2K21/CO/307",
+    "cgpa": "8.19"
+  },
+  {
+    "name": "NILESH",
+    "roll": "2K21/CO/308",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "NIMIT GARG",
+    "roll": "2K21/CO/309",
+    "cgpa": "8.82"
+  },
+  {
+    "name": "NIRBHAY GUPTA",
+    "roll": "2K21/CO/312",
+    "cgpa": "8.19"
+  },
+  {
+    "name": "NISHANT",
+    "roll": "2K21/CO/313",
+    "cgpa": "7.50"
+  },
+  {
+    "name": "NISHANT CHANDRA SUMAN",
+    "roll": "2K21/CO/314",
+    "cgpa": "7.45"
+  },
+  {
+    "name": "NISHTHA SAINI",
+    "roll": "2K21/CO/315",
+    "cgpa": "8.56"
+  },
+  {
+    "name": "NITI",
+    "roll": "2K21/CO/316",
+    "cgpa": "8.13"
+  },
+  {
+    "name": "NITYAM",
+    "roll": "2K21/CO/317",
+    "cgpa": "8.36"
+  },
+  {
+    "name": "NIYATI NARWAL",
+    "roll": "2K21/CO/318",
+    "cgpa": "9.53"
+  },
+  {
+    "name": "PANKAJ",
+    "roll": "2K21/CO/322",
+    "cgpa": "8.73"
+  },
+  {
+    "name": "PARAS KUMAR ARUN",
+    "roll": "2K21/CO/323",
+    "cgpa": "8.22"
+  },
+  {
+    "name": "PARIKSHIT KAIRON",
+    "roll": "2K21/CO/324",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "PAULAMI BHATTACHARJEE",
+    "roll": "2K21/CO/326",
+    "cgpa": "6.03"
+  },
+  {
+    "name": "PAWAN RAJ",
+    "roll": "2K21/CO/327",
+    "cgpa": "6.71"
+  },
+  {
+    "name": "PIYUSH BHAWSAR",
+    "roll": "2K21/CO/328",
+    "cgpa": "6.26"
+  },
+  {
+    "name": "PIYUSH JAIN",
+    "roll": "2K21/CO/329",
+    "cgpa": "9.10"
+  },
+  {
+    "name": "PIYUSH VERMA",
+    "roll": "2K21/CO/330",
+    "cgpa": "8.48"
+  },
+  {
+    "name": "POOJITA",
+    "roll": "2K21/CO/331",
+    "cgpa": "8.25"
+  },
+  {
+    "name": "PRABAL KHANGURA",
+    "roll": "2K21/CO/332",
+    "cgpa": "7.68"
+  },
+  {
+    "name": "PRAJWAL DANGWAL",
+    "roll": "2K21/CO/333",
+    "cgpa": "6.87"
+  },
+  {
+    "name": "PRAKARSH PANWAR",
+    "roll": "2K21/CO/334",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "PRAKHAR TRIVEDI",
+    "roll": "2K21/CO/335",
+    "cgpa": "9.40"
+  },
+  {
+    "name": "PRANAV JASWAL",
+    "roll": "2K21/CO/336",
+    "cgpa": "6.02"
+  },
+  {
+    "name": "PRANAV SINGH",
+    "roll": "2K21/CO/337",
+    "cgpa": "6.47"
+  },
+  {
+    "name": "PRANAY AVNISH KACHHAP",
+    "roll": "2K21/CO/338",
+    "cgpa": "7.35"
+  },
+  {
+    "name": "PRANSHU AJAY",
+    "roll": "2K21/CO/339",
+    "cgpa": "7.64"
+  },
+  {
+    "name": "PRASHANT",
+    "roll": "2K21/CO/340",
+    "cgpa": "8.61"
+  },
+  {
+    "name": "PRATEEK AGARWAL",
+    "roll": "2K21/CO/341",
+    "cgpa": "9.14"
+  },
+  {
+    "name": "PRATYAKSH DALAL",
+    "roll": "2K21/CO/343",
+    "cgpa": "9.42"
+  },
+  {
+    "name": "PRAVEEN KUMAR",
+    "roll": "2K21/CO/344",
+    "cgpa": "9.09"
+  },
+  {
+    "name": "PRERNA SAINI",
+    "roll": "2K21/CO/345",
+    "cgpa": "9.41"
+  },
+  {
+    "name": "PRINCE KUMAR",
+    "roll": "2K21/CO/346",
+    "cgpa": "6.45"
+  },
+  {
+    "name": "PRINCE PAL",
+    "roll": "2K21/CO/347",
+    "cgpa": "7.41"
+  },
+  {
+    "name": "PRITESH DAS",
+    "roll": "2K21/CO/348",
+    "cgpa": "7.46"
+  },
+  {
+    "name": "PRIYANSH KUMAR SINGH",
+    "roll": "2K21/CO/350",
+    "cgpa": "6.73"
+  },
+  {
+    "name": "PRIYANSHI GUPTA",
+    "roll": "2K21/CO/351",
+    "cgpa": "8.87"
+  },
+  {
+    "name": "PRIYANSHU GUPTA",
+    "roll": "2K21/CO/352",
+    "cgpa": "9.06"
+  },
+  {
+    "name": "PRIYANSHU SAHANI",
+    "roll": "2K21/CO/353",
+    "cgpa": "8.55"
+  },
+  {
+    "name": "PULKIT",
+    "roll": "2K21/CO/354",
+    "cgpa": "7.69"
+  },
+  {
+    "name": "PULKIT CHOUDHARY",
+    "roll": "2K21/CO/355",
+    "cgpa": "6.30"
+  },
+  {
+    "name": "PUNEET JAWLA",
+    "roll": "2K21/CO/357",
+    "cgpa": "7.76"
+  },
+  {
+    "name": "PUSHKAR SINGH",
+    "roll": "2K21/CO/358",
+    "cgpa": "9.13"
+  },
+  {
+    "name": "PUSHPENDER SOLANKI",
+    "roll": "2K21/CO/359",
+    "cgpa": "7.51"
+  },
+  {
+    "name": "RAAD GHAZI ABDALLAH THABIT AL ZAEEM",
+    "roll": "2K21/CO/360",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "RAGHAV BHATIA",
+    "roll": "2K21/CO/363",
+    "cgpa": "8.40"
+  },
+  {
+    "name": "RAGHAV CHATHLI",
+    "roll": "2K21/CO/364",
+    "cgpa": "7.46"
+  },
+  {
+    "name": "RAHUL",
+    "roll": "2K21/CO/365",
+    "cgpa": "8.88"
+  },
+  {
+    "name": "RAHUL",
+    "roll": "2K21/CO/366",
+    "cgpa": "5.37"
+  },
+  {
+    "name": "RAHUL GUPTA",
+    "roll": "2K21/CO/367",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "RAHUL KUMAR",
+    "roll": "2K21/CO/368",
+    "cgpa": "8.26"
+  },
+  {
+    "name": "RAJAT KUMAR DABAS",
+    "roll": "2K21/CO/369",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "RAJAT MALIK",
+    "roll": "2K21/CO/370",
+    "cgpa": "5.82"
+  },
+  {
+    "name": "RAJIP THAKUR",
+    "roll": "2K21/CO/371",
+    "cgpa": "9.35"
+  },
+  {
+    "name": "RAJNEESH KUMAR",
+    "roll": "2K21/CO/372",
+    "cgpa": "7.17"
+  },
+  {
+    "name": "RAJNEESH KUMAR",
+    "roll": "2K21/CO/373",
+    "cgpa": "5.33"
+  },
+  {
+    "name": "RAKSHIT SIHAG",
+    "roll": "2K21/CO/375",
+    "cgpa": "7.50"
+  },
+  {
+    "name": "RAMANPREET SINGH",
+    "roll": "2K21/CO/376",
+    "cgpa": "8.38"
+  },
+  {
+    "name": "RAMASHISH KUMAR THAKUR",
+    "roll": "2K21/CO/377",
+    "cgpa": "8.13"
+  },
+  {
+    "name": "RAMSWAROOP DUKIYA",
+    "roll": "2K21/CO/378",
+    "cgpa": "7.85"
+  },
+  {
+    "name": "RAUSHAN KUMAR",
+    "roll": "2K21/CO/379",
+    "cgpa": "8.07"
+  },
+  {
+    "name": "RIJUL THAKUR",
+    "roll": "2K21/CO/380",
+    "cgpa": "8.02"
+  },
+  {
+    "name": "RISHABH AGGARWAL",
+    "roll": "2K21/CO/381",
+    "cgpa": "9.09"
+  },
+  {
+    "name": "RISHABH GOYAL",
+    "roll": "2K21/CO/382",
+    "cgpa": "6.79"
+  },
+  {
+    "name": "RISHABH PAL",
+    "roll": "2K21/CO/383",
+    "cgpa": "8.18"
+  },
+  {
+    "name": "RISHI ROY",
+    "roll": "2K21/CO/384",
+    "cgpa": "8.73"
+  },
+  {
+    "name": "RISHU RAJ",
+    "roll": "2K21/CO/385",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "RITESH KUMAR",
+    "roll": "2K21/CO/386",
+    "cgpa": "7.94"
+  },
+  {
+    "name": "RITIK",
+    "roll": "2K21/CO/387",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "RITIK KUMAR RATHI",
+    "roll": "2K21/CO/388",
+    "cgpa": "8.42"
+  },
+  {
+    "name": "RIYAN LATHEEF CP",
+    "roll": "2K21/CO/389",
+    "cgpa": "5.14"
+  },
+  {
+    "name": "ROHAN",
+    "roll": "2K21/CO/390",
+    "cgpa": "8.26"
+  },
+  {
+    "name": "ROHAN MITTAL",
+    "roll": "2K21/CO/391",
+    "cgpa": "8.56"
+  },
+  {
+    "name": "ROHIT",
+    "roll": "2K21/CO/392",
+    "cgpa": "8.77"
+  },
+  {
+    "name": "ROHIT CHAKRABORTY",
+    "roll": "2K21/CO/393",
+    "cgpa": "7.33"
+  },
+  {
+    "name": "ROHIT MOHAN",
+    "roll": "2K21/CO/394",
+    "cgpa": "7.28"
+  },
+  {
+    "name": "RONALDO PAL",
+    "roll": "2K21/CO/395",
+    "cgpa": "9.02"
+  },
+  {
+    "name": "ROOPAL SHAKYA",
+    "roll": "2K21/CO/396",
+    "cgpa": "8.31"
+  },
+  {
+    "name": "ROSHAN KUMAR",
+    "roll": "2K21/CO/397",
+    "cgpa": "8.53"
+  },
+  {
+    "name": "ROUSHAN KUMAR",
+    "roll": "2K21/CO/398",
+    "cgpa": "6.87"
+  },
+  {
+    "name": "S SUCHENDRA BHARADWAJ",
+    "roll": "2K21/CO/399",
+    "cgpa": "8.89"
+  },
+  {
+    "name": "SAARTHAK SHARMA",
+    "roll": "2K21/CO/400",
+    "cgpa": "6.77"
+  },
+  {
+    "name": "SACHIN",
+    "roll": "2K21/CO/401",
+    "cgpa": "7.85"
+  },
+  {
+    "name": "SACHIN NEGI",
+    "roll": "2K21/CO/402",
+    "cgpa": "7.27"
+  },
+  {
+    "name": "SACHIN SABBAL",
+    "roll": "2K21/CO/403",
+    "cgpa": "7.05"
+  },
+  {
+    "name": "SAHIL CHHABRA",
+    "roll": "2K21/CO/405",
+    "cgpa": "9.25"
+  },
+  {
+    "name": "SAHIL GUPTA",
+    "roll": "2K21/CO/406",
+    "cgpa": "9.03"
+  },
+  {
+    "name": "SAHIL ZOMBADE",
+    "roll": "2K21/CO/408",
+    "cgpa": "9.04"
+  },
+  {
+    "name": "SAI DEEP",
+    "roll": "2K21/CO/409",
+    "cgpa": "7.30"
+  },
+  {
+    "name": "SAKSHAM SURI",
+    "roll": "2K21/CO/411",
+    "cgpa": "8.17"
+  },
+  {
+    "name": "SALIL CHOUDHARY",
+    "roll": "2K21/CO/412",
+    "cgpa": "8.74"
+  },
+  {
+    "name": "SAMARTH DHAR",
+    "roll": "2K21/CO/413",
+    "cgpa": "6.35"
+  },
+  {
+    "name": "SAMYAK VERMA",
+    "roll": "2K21/CO/416",
+    "cgpa": "8.58"
+  },
+  {
+    "name": "SANDESH SHRESTHA",
+    "roll": "2K21/CO/417",
+    "cgpa": "9.23"
+  },
+  {
+    "name": "SANSKAR OJHA",
+    "roll": "2K21/CO/418",
+    "cgpa": "9.08"
+  },
+  {
+    "name": "SANYA KHURANA",
+    "roll": "2K21/CO/419",
+    "cgpa": "9.88"
+  },
+  {
+    "name": "SANYAM",
+    "roll": "2K21/CO/420",
+    "cgpa": "9.32"
+  },
+  {
+    "name": "SARTHAK GARG",
+    "roll": "2K21/CO/421",
+    "cgpa": "9.35"
+  },
+  {
+    "name": "SARTHAK GUPTA",
+    "roll": "2K21/CO/422",
+    "cgpa": "8.79"
+  },
+  {
+    "name": "SARTHAK GUPTA",
+    "roll": "2K21/CO/423",
+    "cgpa": "8.15"
+  },
+  {
+    "name": "SARTHAK KUMAR",
+    "roll": "2K21/CO/424",
+    "cgpa": "7.62"
+  },
+  {
+    "name": "SARTHAK SRIVASTAVA",
+    "roll": "2K21/CO/425",
+    "cgpa": "6.88"
+  },
+  {
+    "name": "SARVESH PAHWA",
+    "roll": "2K21/CO/426",
+    "cgpa": "8.97"
+  },
+  {
+    "name": "SATYAM GOYAL",
+    "roll": "2K21/CO/427",
+    "cgpa": "7.94"
+  },
+  {
+    "name": "SATYAM KUMAR GUPTA",
+    "roll": "2K21/CO/428",
+    "cgpa": "8.08"
+  },
+  {
+    "name": "SAURABH YADAV",
+    "roll": "2K21/CO/429",
+    "cgpa": "7.26"
+  },
+  {
+    "name": "SAWAN JAIN",
+    "roll": "2K21/CO/430",
+    "cgpa": "8.91"
+  },
+  {
+    "name": "SHADAB KARIM",
+    "roll": "2K21/CO/431",
+    "cgpa": "4.39"
+  },
+  {
+    "name": "SHAGUN KALRA",
+    "roll": "2K21/CO/432",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "SHAMBHU KUMAR",
+    "roll": "2K21/CO/433",
+    "cgpa": "6.60"
+  },
+  {
+    "name": "SHAONTI GOSWAMI",
+    "roll": "2K21/CO/434",
+    "cgpa": "6.98"
+  },
+  {
+    "name": "SHARAD GAUTAM",
+    "roll": "2K21/CO/435",
+    "cgpa": "6.53"
+  },
+  {
+    "name": "SHASHANK GAUR",
+    "roll": "2K21/CO/436",
+    "cgpa": "8.74"
+  },
+  {
+    "name": "SHIKHAR AGARWAL",
+    "roll": "2K21/CO/439",
+    "cgpa": "8.63"
+  },
+  {
+    "name": "SHISHIR GARG",
+    "roll": "2K21/CO/440",
+    "cgpa": "8.63"
+  },
+  {
+    "name": "SHIV KUMAR",
+    "roll": "2K21/CO/441",
+    "cgpa": "7.84"
+  },
+  {
+    "name": "SHIVALI GUPTA",
+    "roll": "2K21/CO/442",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "SHIVAM AWASTHI",
+    "roll": "2K21/CO/443",
+    "cgpa": "8.62"
+  },
+  {
+    "name": "SHIVAM KANOJIA",
+    "roll": "2K21/CO/444",
+    "cgpa": "7.18"
+  },
+  {
+    "name": "SHIVAM SINGH",
+    "roll": "2K21/CO/446",
+    "cgpa": "8.55"
+  },
+  {
+    "name": "SHIVAM SUJAN",
+    "roll": "2K21/CO/447",
+    "cgpa": "9.11"
+  },
+  {
+    "name": "SHIVAM VERMA",
+    "roll": "2K21/CO/448",
+    "cgpa": "9.24"
+  },
+  {
+    "name": "SHIVANG GUPTA",
+    "roll": "2K21/CO/449",
+    "cgpa": "8.25"
+  },
+  {
+    "name": "SHIVANSH DHAWAN",
+    "roll": "2K21/CO/450",
+    "cgpa": "9.08"
+  },
+  {
+    "name": "SHOBHIT SINGH",
+    "roll": "2K21/CO/452",
+    "cgpa": "8.40"
+  },
+  {
+    "name": "SHRESHTH SUDHIR",
+    "roll": "2K21/CO/453",
+    "cgpa": "8.52"
+  },
+  {
+    "name": "SHRESHTTH",
+    "roll": "2K21/CO/454",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "SHRUTI KISHORE",
+    "roll": "2K21/CO/455",
+    "cgpa": "8.88"
+  },
+  {
+    "name": "SHUBHAM HAZRA",
+    "roll": "2K21/CO/456",
+    "cgpa": "9.30"
+  },
+  {
+    "name": "SHUBHAM SHANDILYA",
+    "roll": "2K21/CO/457",
+    "cgpa": "8.67"
+  },
+  {
+    "name": "SHUBHAM SINGH KASHYAP",
+    "roll": "2K21/CO/458",
+    "cgpa": "8.66"
+  },
+  {
+    "name": "SHUBHAM VERMA",
+    "roll": "2K21/CO/459",
+    "cgpa": "8.80"
+  },
+  {
+    "name": "SHUSHANT AGGARWAL",
+    "roll": "2K21/CO/460",
+    "cgpa": "8.65"
+  },
+  {
+    "name": "SIDDHARTH KHANNA",
+    "roll": "2K21/CO/462",
+    "cgpa": "6.66"
+  },
+  {
+    "name": "SIDDHARTH SHEKHAR",
+    "roll": "2K21/CO/463",
+    "cgpa": "8.51"
+  },
+  {
+    "name": "SIDDHARTH SINGH",
+    "roll": "2K21/CO/464",
+    "cgpa": "8.09"
+  },
+  {
+    "name": "SIDDHARTHA PATWAL",
+    "roll": "2K21/CO/465",
+    "cgpa": "8.91"
+  },
+  {
+    "name": "SIMRAN KAUR",
+    "roll": "2K21/CO/466",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "SINGAM VENKATA SAI DHEERAJ REDDY",
+    "roll": "2K21/CO/467",
+    "cgpa": "8.25"
+  },
+  {
+    "name": "SIYA MITTAL",
+    "roll": "2K21/CO/468",
+    "cgpa": "9.84"
+  },
+  {
+    "name": "SOURABH KUMAR",
+    "roll": "2K21/CO/469",
+    "cgpa": "8.00"
+  },
+  {
+    "name": "SPARSH DAHIYA",
+    "roll": "2K21/CO/471",
+    "cgpa": "7.96"
+  },
+  {
+    "name": "SRIJAN SHANKAR",
+    "roll": "2K21/CO/472",
+    "cgpa": "6.94"
+  },
+  {
+    "name": "SRISHTY",
+    "roll": "2K21/CO/473",
+    "cgpa": "5.00"
+  },
+  {
+    "name": "SUBHANSHU PRASAD",
+    "roll": "2K21/CO/474",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "SUDIKSHA AGGARWAL",
+    "roll": "2K21/CO/475",
+    "cgpa": "8.82"
+  },
+  {
+    "name": "SUDIPTY KONICA PAUL",
+    "roll": "2K21/CO/476",
+    "cgpa": "6.63"
+  },
+  {
+    "name": "SUKHDEEP SINGH SAINI",
+    "roll": "2K21/CO/477",
+    "cgpa": "8.69"
+  },
+  {
+    "name": "SUKRIT PRIYANK",
+    "roll": "2K21/CO/478",
+    "cgpa": "8.08"
+  },
+  {
+    "name": "SUMEDHA",
+    "roll": "2K21/CO/479",
+    "cgpa": "8.10"
+  },
+  {
+    "name": "SUMIT BANSAL",
+    "roll": "2K21/CO/480",
+    "cgpa": "9.56"
+  },
+  {
+    "name": "SUMIT SURIN",
+    "roll": "2K21/CO/482",
+    "cgpa": "6.40"
+  },
+  {
+    "name": "SUMIT YADAV",
+    "roll": "2K21/CO/483",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "SUMPANNA ACHARYA",
+    "roll": "2K21/CO/484",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "SUTIKSHAN SINGH",
+    "roll": "2K21/CO/486",
+    "cgpa": "7.60"
+  },
+  {
+    "name": "SUYASH SHRINGI",
+    "roll": "2K21/CO/487",
+    "cgpa": "8.36"
+  },
+  {
+    "name": "SWAPNIL MEENA",
+    "roll": "2K21/CO/488",
+    "cgpa": "7.74"
+  },
+  {
+    "name": "SWATI YADAV",
+    "roll": "2K21/CO/489",
+    "cgpa": "7.69"
+  },
+  {
+    "name": "TANISH KHATRI",
+    "roll": "2K21/CO/491",
+    "cgpa": "8.56"
+  },
+  {
+    "name": "TUSHAR GUPTA",
+    "roll": "2K21/CO/492",
+    "cgpa": "8.42"
+  },
+  {
+    "name": "TUSHAR KHETERPAL",
+    "roll": "2K21/CO/493",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "TUSHAR ROHILLA",
+    "roll": "2K21/CO/494",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "TUSHAR SAI GUPTA",
+    "roll": "2K21/CO/495",
+    "cgpa": "6.92"
+  },
+  {
+    "name": "UDBHAV KHURANA",
+    "roll": "2K21/CO/496",
+    "cgpa": "8.81"
+  },
+  {
+    "name": "UGYEN WANGCHUK",
+    "roll": "2K21/CO/497",
+    "cgpa": "7.83"
+  },
+  {
+    "name": "UJWAL GUPTA",
+    "roll": "2K21/CO/498",
+    "cgpa": "7.59"
+  },
+  {
+    "name": "UMANG",
+    "roll": "2K21/CO/499",
+    "cgpa": "5.23"
+  },
+  {
+    "name": "UTPAL RAJ",
+    "roll": "2K21/CO/500",
+    "cgpa": "8.74"
+  },
+  {
+    "name": "UTTAM KUMAR YADAV",
+    "roll": "2K21/CO/501",
+    "cgpa": "7.73"
+  },
+  {
+    "name": "VANI RAO",
+    "roll": "2K21/CO/502",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "VANSH TYAGI",
+    "roll": "2K21/CO/503",
+    "cgpa": "7.45"
+  },
+  {
+    "name": "VANSH VERMA",
+    "roll": "2K21/CO/504",
+    "cgpa": "8.12"
+  },
+  {
+    "name": "VANSHIKA ARORA",
+    "roll": "2K21/CO/505",
+    "cgpa": "6.18"
+  },
+  {
+    "name": "VANSHITA MEENA",
+    "roll": "2K21/CO/506",
+    "cgpa": "8.79"
+  },
+  {
+    "name": "VARSHIT GUMBER",
+    "roll": "2K21/CO/507",
+    "cgpa": "8.07"
+  },
+  {
+    "name": "VATAN TOMAR",
+    "roll": "2K21/CO/508",
+    "cgpa": "7.28"
+  },
+  {
+    "name": "VATSALYA KUMAR MISHRA",
+    "roll": "2K21/CO/509",
+    "cgpa": "8.17"
+  },
+  {
+    "name": "VEDANT ROY",
+    "roll": "2K21/CO/510",
+    "cgpa": "4.64"
+  },
+  {
+    "name": "VICKY KUMAR",
+    "roll": "2K21/CO/513",
+    "cgpa": "8.26"
+  },
+  {
+    "name": "VIDHI",
+    "roll": "2K21/CO/514",
+    "cgpa": "5.74"
+  },
+  {
+    "name": "VIJAY KUMAR SAWHNEY",
+    "roll": "2K21/CO/515",
+    "cgpa": "7.55"
+  },
+  {
+    "name": "VIJAY KUMAR YADAV",
+    "roll": "2K21/CO/516",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "VIJAY PAL",
+    "roll": "2K21/CO/517",
+    "cgpa": "8.86"
+  },
+  {
+    "name": "VINAYAK KAPOOR",
+    "roll": "2K21/CO/518",
+    "cgpa": "8.40"
+  },
+  {
+    "name": "VINEET DAGA",
+    "roll": "2K21/CO/519",
+    "cgpa": "8.85"
+  },
+  {
+    "name": "VIRAT",
+    "roll": "2K21/CO/520",
+    "cgpa": "7.53"
+  },
+  {
+    "name": "VISHAL",
+    "roll": "2K21/CO/521",
+    "cgpa": "8.84"
+  },
+  {
+    "name": "VISHAL ANTIL",
+    "roll": "2K21/CO/522",
+    "cgpa": "8.23"
+  },
+  {
+    "name": "VISHAL DAS",
+    "roll": "2K21/CO/523",
+    "cgpa": "9.37"
+  },
+  {
+    "name": "VISHAL GUPTA",
+    "roll": "2K21/CO/524",
+    "cgpa": "8.26"
+  },
+  {
+    "name": "VISHAL KUMAR GUPTA",
+    "roll": "2K21/CO/525",
+    "cgpa": "8.71"
+  },
+  {
+    "name": "VIVEK JAIN",
+    "roll": "2K21/CO/528",
+    "cgpa": "8.16"
+  },
+  {
+    "name": "VIVEK YADAV",
+    "roll": "2K21/CO/529",
+    "cgpa": "9.06"
+  },
+  {
+    "name": "YASH DHINGRA",
+    "roll": "2K21/CO/532",
+    "cgpa": "9.59"
+  },
+  {
+    "name": "YASH KUMAR",
+    "roll": "2K21/CO/533",
+    "cgpa": "7.44"
+  },
+  {
+    "name": "YASH SHARMA",
+    "roll": "2K21/CO/534",
+    "cgpa": "7.35"
+  },
+  {
+    "name": "YASHIKA AGGARWAL",
+    "roll": "2K21/CO/535",
+    "cgpa": "6.41"
+  },
+  {
+    "name": "YASHVARDHAN",
+    "roll": "2K21/CO/536",
+    "cgpa": "7.52"
+  },
+  {
+    "name": "ABUALHASSAN BABEKIR ELHAJ",
+    "roll": "2K21/CO/539",
+    "cgpa": "5.72"
+  },
+  {
+    "name": "AAYUSH MANDAWAT",
+    "roll": "2K21/IT/01",
+    "cgpa": "5.96"
+  },
+  {
+    "name": "AAYUSHI PRIYAM",
+    "roll": "2K21/IT/02",
+    "cgpa": "8.78"
+  },
+  {
+    "name": "ABHAY DEVRAJ",
+    "roll": "2K21/IT/03",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "ABHIMANYU",
+    "roll": "2K21/IT/04",
+    "cgpa": "8.15"
+  },
+  {
+    "name": "ABHINAV KUMAR",
+    "roll": "2K21/IT/05",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "ADARSH MISHRA",
+    "roll": "2K21/IT/06",
+    "cgpa": "7.45"
+  },
+  {
+    "name": "ADI KRISHNA MANOJKUMAR",
+    "roll": "2K21/IT/07",
+    "cgpa": "7.97"
+  },
+  {
+    "name": "ADIDEV SREEDHARAN NAIR",
+    "roll": "2K21/IT/08",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "ADITYA DARGAN",
+    "roll": "2K21/IT/09",
+    "cgpa": "9.25"
+  },
+  {
+    "name": "ADITYA GUPTA",
+    "roll": "2K21/IT/10",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "ADITYA JAIN",
+    "roll": "2K21/IT/11",
+    "cgpa": "5.09"
+  },
+  {
+    "name": "ADITYA KUMAR",
+    "roll": "2K21/IT/12",
+    "cgpa": "7.29"
+  },
+  {
+    "name": "ADITYA LAMA",
+    "roll": "2K21/IT/13",
+    "cgpa": "7.04"
+  },
+  {
+    "name": "ADITYA RATHOR",
+    "roll": "2K21/IT/14",
+    "cgpa": "8.78"
+  },
+  {
+    "name": "ADITYA RAUT",
+    "roll": "2K21/IT/15",
+    "cgpa": "8.08"
+  },
+  {
+    "name": "ADITYA SHARMA",
+    "roll": "2K21/IT/16",
+    "cgpa": "8.59"
+  },
+  {
+    "name": "ADITYA YADAV",
+    "roll": "2K21/IT/17",
+    "cgpa": "6.37"
+  },
+  {
+    "name": "AISHWARYA SINGH",
+    "roll": "2K21/IT/18",
+    "cgpa": "7.18"
+  },
+  {
+    "name": "AKASH",
+    "roll": "2K21/IT/19",
+    "cgpa": "7.93"
+  },
+  {
+    "name": "AKASH",
+    "roll": "2K21/IT/20",
+    "cgpa": "8.40"
+  },
+  {
+    "name": "ALOK DEEP",
+    "roll": "2K21/IT/21",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "AMAN JAIN",
+    "roll": "2K21/IT/22",
+    "cgpa": "9.45"
+  },
+  {
+    "name": "AMAN KUMAR",
+    "roll": "2K21/IT/23",
+    "cgpa": "7.25"
+  },
+  {
+    "name": "ANIKET MEENA",
+    "roll": "2K21/IT/24",
+    "cgpa": "6.60"
+  },
+  {
+    "name": "ANIKET RAJ JHA",
+    "roll": "2K21/IT/25",
+    "cgpa": "9.34"
+  },
+  {
+    "name": "ANIMISH SHARMA",
+    "roll": "2K21/IT/27",
+    "cgpa": "9.15"
+  },
+  {
+    "name": "ANKIT BANSAL",
+    "roll": "2K21/IT/28",
+    "cgpa": "8.94"
+  },
+  {
+    "name": "ANKIT DAWAR",
+    "roll": "2K21/IT/29",
+    "cgpa": "7.25"
+  },
+  {
+    "name": "ANKIT KARN",
+    "roll": "2K21/IT/30",
+    "cgpa": "5.95"
+  },
+  {
+    "name": "ANKIT KUMAR JHA",
+    "roll": "2K21/IT/31",
+    "cgpa": "8.37"
+  },
+  {
+    "name": "ANMOL",
+    "roll": "2K21/IT/32",
+    "cgpa": "7.42"
+  },
+  {
+    "name": "ANMOL JAIN",
+    "roll": "2K21/IT/33",
+    "cgpa": "8.60"
+  },
+  {
+    "name": "ANMOL SHARMA",
+    "roll": "2K21/IT/34",
+    "cgpa": "8.64"
+  },
+  {
+    "name": "ANSHUL KEOTE",
+    "roll": "2K21/IT/35",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "ANUJ KUMAR",
+    "roll": "2K21/IT/37",
+    "cgpa": "7.05"
+  },
+  {
+    "name": "ANURAG DINODIA",
+    "roll": "2K21/IT/38",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "ARC PRABH",
+    "roll": "2K21/IT/39",
+    "cgpa": "6.58"
+  },
+  {
+    "name": "ARCHIT TIWARI",
+    "roll": "2K21/IT/40",
+    "cgpa": "7.66"
+  },
+  {
+    "name": "ARNAB NASKAR",
+    "roll": "2K21/IT/41",
+    "cgpa": "3.30"
+  },
+  {
+    "name": "ARPIT KHETAN",
+    "roll": "2K21/IT/42",
+    "cgpa": "9.11"
+  },
+  {
+    "name": "ARYAN BHATIA",
+    "roll": "2K21/IT/43",
+    "cgpa": "8.50"
+  },
+  {
+    "name": "ARYAN GUPTA",
+    "roll": "2K21/IT/44",
+    "cgpa": "9.04"
+  },
+  {
+    "name": "ARZOO",
+    "roll": "2K21/IT/45",
+    "cgpa": "9.34"
+  },
+  {
+    "name": "ASHU DHAMA",
+    "roll": "2K21/IT/46",
+    "cgpa": "6.99"
+  },
+  {
+    "name": "AYUSH GARG",
+    "roll": "2K21/IT/47",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "AYUSH KUMAR",
+    "roll": "2K21/IT/48",
+    "cgpa": "7.99"
+  },
+  {
+    "name": "BHAVYA",
+    "roll": "2K21/IT/49",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "BHUPESH DABAS",
+    "roll": "2K21/IT/50",
+    "cgpa": "6.60"
+  },
+  {
+    "name": "BISHAL AGRAWAL",
+    "roll": "2K21/IT/51",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "CHANDRADITYA SINGH JADAUN",
+    "roll": "2K21/IT/52",
+    "cgpa": "5.16"
+  },
+  {
+    "name": "CHETAN PRAKASH",
+    "roll": "2K21/IT/53",
+    "cgpa": "7.82"
+  },
+  {
+    "name": "CHIRAG",
+    "roll": "2K21/IT/54",
+    "cgpa": "7.73"
+  },
+  {
+    "name": "CHIRAG RANA",
+    "roll": "2K21/IT/56",
+    "cgpa": "9.22"
+  },
+  {
+    "name": "DAKSH GUPTA",
+    "roll": "2K21/IT/57",
+    "cgpa": "9.01"
+  },
+  {
+    "name": "DEEPAK KUMAR SHAKYA",
+    "roll": "2K21/IT/58",
+    "cgpa": "8.16"
+  },
+  {
+    "name": "DEEPANSHU SHARMA",
+    "roll": "2K21/IT/59",
+    "cgpa": "9.17"
+  },
+  {
+    "name": "DEEPANSHU SINGH",
+    "roll": "2K21/IT/60",
+    "cgpa": "8.81"
+  },
+  {
+    "name": "DEVANG MAHESHWARI",
+    "roll": "2K21/IT/61",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "DEVANSH VERMA",
+    "roll": "2K21/IT/62",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "Dhruv Singhal",
+    "roll": "2K21/IT/63",
+    "cgpa": "8.05"
+  },
+  {
+    "name": "GAURAV KUMAR",
+    "roll": "2K21/IT/65",
+    "cgpa": "9.23"
+  },
+  {
+    "name": "GAURAV SAINI",
+    "roll": "2K21/IT/66",
+    "cgpa": "7.65"
+  },
+  {
+    "name": "GAUTAM DALAL",
+    "roll": "2K21/IT/67",
+    "cgpa": "7.84"
+  },
+  {
+    "name": "GUNEET AGGARWAL",
+    "roll": "2K21/IT/68",
+    "cgpa": "9.09"
+  },
+  {
+    "name": "HARDIK SHUKLA",
+    "roll": "2K21/IT/69",
+    "cgpa": "8.83"
+  },
+  {
+    "name": "HARSH",
+    "roll": "2K21/IT/70",
+    "cgpa": "8.06"
+  },
+  {
+    "name": "HARSH RAGHUVANSHI",
+    "roll": "2K21/IT/72",
+    "cgpa": "8.83"
+  },
+  {
+    "name": "HARSH SHARMA",
+    "roll": "2K21/IT/73",
+    "cgpa": "7.95"
+  },
+  {
+    "name": "HARSH TIWARI",
+    "roll": "2K21/IT/74",
+    "cgpa": "8.93"
+  },
+  {
+    "name": "HARSH VERMA",
+    "roll": "2K21/IT/75",
+    "cgpa": "8.28"
+  },
+  {
+    "name": "HARSHIT CHAUHAN",
+    "roll": "2K21/IT/76",
+    "cgpa": "9.33"
+  },
+  {
+    "name": "HIMANI KARN",
+    "roll": "2K21/IT/77",
+    "cgpa": "9.14"
+  },
+  {
+    "name": "HIMANSH GANDHI",
+    "roll": "2K21/IT/78",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "HIMANSHU PANWAR",
+    "roll": "2K21/IT/79",
+    "cgpa": "8.08"
+  },
+  {
+    "name": "HIMANSHU SHARMA",
+    "roll": "2K21/IT/80",
+    "cgpa": "9.14"
+  },
+  {
+    "name": "HITESH BALOTIA",
+    "roll": "2K21/IT/81",
+    "cgpa": "7.85"
+  },
+  {
+    "name": "ISHAN BHARDWAJ",
+    "roll": "2K21/IT/82",
+    "cgpa": "7.28"
+  },
+  {
+    "name": "JAI KRISHNA",
+    "roll": "2K21/IT/83",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "JANIT PANDITA",
+    "roll": "2K21/IT/84",
+    "cgpa": "8.16"
+  },
+  {
+    "name": "JAPNEET SINGH",
+    "roll": "2K21/IT/85",
+    "cgpa": "9.33"
+  },
+  {
+    "name": "JASRAJ SINGH SEHMBEY",
+    "roll": "2K21/IT/86",
+    "cgpa": "9.25"
+  },
+  {
+    "name": "JATIN GAUTAM",
+    "roll": "2K21/IT/87",
+    "cgpa": "7.46"
+  },
+  {
+    "name": "JATIN YADAV",
+    "roll": "2K21/IT/88",
+    "cgpa": "8.94"
+  },
+  {
+    "name": "JAYANT SINGH CHAHAR",
+    "roll": "2K21/IT/89",
+    "cgpa": "8.71"
+  },
+  {
+    "name": "JIVTESH SRIVASTAVA",
+    "roll": "2K21/IT/90",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "KABIL NIVAAS A",
+    "roll": "2K21/IT/92",
+    "cgpa": "7.48"
+  },
+  {
+    "name": "KANISHK SRIVASTAVA",
+    "roll": "2K21/IT/93",
+    "cgpa": "8.73"
+  },
+  {
+    "name": "KARTIK BHASIN",
+    "roll": "2K21/IT/94",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "KHUSHAL GUPTA",
+    "roll": "2K21/IT/95",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "KHUSHI CHAUDHARY",
+    "roll": "2K21/IT/96",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "KRITVI SHARMA",
+    "roll": "2K21/IT/98",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "LAKSHYA",
+    "roll": "2K21/IT/101",
+    "cgpa": "8.17"
+  },
+  {
+    "name": "LAREB AHMED",
+    "roll": "2K21/IT/102",
+    "cgpa": "7.19"
+  },
+  {
+    "name": "LUCKSHYA GARG",
+    "roll": "2K21/IT/103",
+    "cgpa": "9.21"
+  },
+  {
+    "name": "MAGDI ABDULLAH MOHAMMED ALI SAAD",
+    "roll": "2K21/IT/104",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "MAINAK GANGOPADHYAY",
+    "roll": "2K21/IT/105",
+    "cgpa": "8.96"
+  },
+  {
+    "name": "MANAV MITTAL",
+    "roll": "2K21/IT/106",
+    "cgpa": "7.43"
+  },
+  {
+    "name": "MANYA GARG",
+    "roll": "2K21/IT/107",
+    "cgpa": "8.87"
+  },
+  {
+    "name": "MAYANK",
+    "roll": "2K21/IT/108",
+    "cgpa": "7.56"
+  },
+  {
+    "name": "MAYANK GAJBHIYE",
+    "roll": "2K21/IT/109",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "MIHIR MILIND KUMAR",
+    "roll": "2K21/IT/110",
+    "cgpa": "9.43"
+  },
+  {
+    "name": "Mohamed Elhabib Mohamed Said Ahmed Ali",
+    "roll": "2K21/IT/112",
+    "cgpa": "6.27"
+  },
+  {
+    "name": "MONIKA",
+    "roll": "2K21/IT/114",
+    "cgpa": "7.52"
+  },
+  {
+    "name": "MRIGANK GUPTA",
+    "roll": "2K21/IT/115",
+    "cgpa": "9.53"
+  },
+  {
+    "name": "NAMAN GARG",
+    "roll": "2K21/IT/117",
+    "cgpa": "7.34"
+  },
+  {
+    "name": "NIKUNJ GUPTA",
+    "roll": "2K21/IT/120",
+    "cgpa": "8.56"
+  },
+  {
+    "name": "NILESH GARHWAR",
+    "roll": "2K21/IT/121",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "NISHANT WADHAWAN",
+    "roll": "2K21/IT/122",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "NITIN",
+    "roll": "2K21/IT/123",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "OJASWI",
+    "roll": "2K21/IT/125",
+    "cgpa": "8.18"
+  },
+  {
+    "name": "PARTH NANGROO",
+    "roll": "2K21/IT/126",
+    "cgpa": "8.42"
+  },
+  {
+    "name": "PARV MUDGAL",
+    "roll": "2K21/IT/127",
+    "cgpa": "8.74"
+  },
+  {
+    "name": "PAWAN MEENA",
+    "roll": "2K21/IT/128",
+    "cgpa": "5.97"
+  },
+  {
+    "name": "PIYUSH SHAH",
+    "roll": "2K21/IT/129",
+    "cgpa": "8.41"
+  },
+  {
+    "name": "PIYUSH SINGH",
+    "roll": "2K21/IT/130",
+    "cgpa": "8.13"
+  },
+  {
+    "name": "PRAKALP MANAV THAKUR",
+    "roll": "2K21/IT/131",
+    "cgpa": "8.06"
+  },
+  {
+    "name": "PRATEEK KUMAR",
+    "roll": "2K21/IT/132",
+    "cgpa": "8.69"
+  },
+  {
+    "name": "PRATEEK KUMAR",
+    "roll": "2K21/IT/133",
+    "cgpa": "9.18"
+  },
+  {
+    "name": "PRERAK VARSHNEY",
+    "roll": "2K21/IT/134",
+    "cgpa": "9.62"
+  },
+  {
+    "name": "PULKIT",
+    "roll": "2K21/IT/135",
+    "cgpa": "7.89"
+  },
+  {
+    "name": "RAGHAV BILLORE",
+    "roll": "2K21/IT/136",
+    "cgpa": "9.01"
+  },
+  {
+    "name": "RAHUL YADAV",
+    "roll": "2K21/IT/137",
+    "cgpa": "8.01"
+  },
+  {
+    "name": "RAJAT KUMAR",
+    "roll": "2K21/IT/138",
+    "cgpa": "5.44"
+  },
+  {
+    "name": "RAJNISH KUMAR",
+    "roll": "2K21/IT/139",
+    "cgpa": "9.01"
+  },
+  {
+    "name": "RAKSHIT KUMAR",
+    "roll": "2K21/IT/140",
+    "cgpa": "8.38"
+  },
+  {
+    "name": "RAMGANGA KUMAR",
+    "roll": "2K21/IT/141",
+    "cgpa": "6.98"
+  },
+  {
+    "name": "RISHI RAJ",
+    "roll": "2K21/IT/143",
+    "cgpa": "6.94"
+  },
+  {
+    "name": "RITIK",
+    "roll": "2K21/IT/145",
+    "cgpa": "9.57"
+  },
+  {
+    "name": "RITWIJ KASHYAP",
+    "roll": "2K21/IT/147",
+    "cgpa": "8.57"
+  },
+  {
+    "name": "ROCHIT PANWAR",
+    "roll": "2K21/IT/148",
+    "cgpa": "8.45"
+  },
+  {
+    "name": "ROHIT DEY",
+    "roll": "2K21/IT/149",
+    "cgpa": "9.27"
+  },
+  {
+    "name": "RUGUNG DAIMARY",
+    "roll": "2K21/IT/151",
+    "cgpa": "7.90"
+  },
+  {
+    "name": "RUPESH SHARDA",
+    "roll": "2K21/IT/152",
+    "cgpa": "8.93"
+  },
+  {
+    "name": "SAAR AGRAWAL",
+    "roll": "2K21/IT/153",
+    "cgpa": "8.41"
+  },
+  {
+    "name": "SAHIL SINGH",
+    "roll": "2K21/IT/154",
+    "cgpa": "7.78"
+  },
+  {
+    "name": "SAI TATSAT GUPTA",
+    "roll": "2K21/IT/155",
+    "cgpa": "5.53"
+  },
+  {
+    "name": "SAJID ALI",
+    "roll": "2K21/IT/156",
+    "cgpa": "6.13"
+  },
+  {
+    "name": "SANDEEP",
+    "roll": "2K21/IT/157",
+    "cgpa": "7.30"
+  },
+  {
+    "name": "SANSKAR GOPI",
+    "roll": "2K21/IT/158",
+    "cgpa": "7.03"
+  },
+  {
+    "name": "SARTHAK GARG",
+    "roll": "2K21/IT/160",
+    "cgpa": "8.73"
+  },
+  {
+    "name": "SHAILESH KUMAR SAHU",
+    "roll": "2K21/IT/161",
+    "cgpa": "8.58"
+  },
+  {
+    "name": "SHASHI",
+    "roll": "2K21/IT/162",
+    "cgpa": "9.07"
+  },
+  {
+    "name": "SHIVAM ANAND",
+    "roll": "2K21/IT/163",
+    "cgpa": "6.12"
+  },
+  {
+    "name": "SHIVAM DHAR",
+    "roll": "2K21/IT/164",
+    "cgpa": "5.53"
+  },
+  {
+    "name": "SHIVAM SHARAN",
+    "roll": "2K21/IT/165",
+    "cgpa": "6.66"
+  },
+  {
+    "name": "SHIVAM SINGH",
+    "roll": "2K21/IT/166",
+    "cgpa": "7.73"
+  },
+  {
+    "name": "SHIVANSH MITTAL",
+    "roll": "2K21/IT/167",
+    "cgpa": "8.55"
+  },
+  {
+    "name": "SHREYANSH SINGH",
+    "roll": "2K21/IT/168",
+    "cgpa": "7.65"
+  },
+  {
+    "name": "SHUBHAM KAPOOR",
+    "roll": "2K21/IT/170",
+    "cgpa": "7.51"
+  },
+  {
+    "name": "SHYILESH VENKATESAN",
+    "roll": "2K21/IT/171",
+    "cgpa": "5.90"
+  },
+  {
+    "name": "SIDDHARTH GOEL",
+    "roll": "2K21/IT/172",
+    "cgpa": "9.07"
+  },
+  {
+    "name": "SIDDHARTH SASMAL",
+    "roll": "2K21/IT/173",
+    "cgpa": "6.75"
+  },
+  {
+    "name": "SNEHA SINGH",
+    "roll": "2K21/IT/175",
+    "cgpa": "4.60"
+  },
+  {
+    "name": "SUJAL",
+    "roll": "2K21/IT/176",
+    "cgpa": "8.14"
+  },
+  {
+    "name": "SUSHANT",
+    "roll": "2K21/IT/178",
+    "cgpa": "7.37"
+  },
+  {
+    "name": "SWETA SHARMA",
+    "roll": "2K21/IT/179",
+    "cgpa": "7.53"
+  },
+  {
+    "name": "SYED AKRAMAH AHMAD",
+    "roll": "2K21/IT/180",
+    "cgpa": "8.64"
+  },
+  {
+    "name": "TANISHQ BANSAL",
+    "roll": "2K21/IT/181",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "TEEKSHA HARISH",
+    "roll": "2K21/IT/182",
+    "cgpa": "9.22"
+  },
+  {
+    "name": "TEJASV KAUSHIK",
+    "roll": "2K21/IT/183",
+    "cgpa": "8.92"
+  },
+  {
+    "name": "Uddhav Nanda",
+    "roll": "2K21/IT/184",
+    "cgpa": "6.31"
+  },
+  {
+    "name": "URVASHI SINHA",
+    "roll": "2K21/IT/185",
+    "cgpa": "9.32"
+  },
+  {
+    "name": "UTKARSH",
+    "roll": "2K21/IT/186",
+    "cgpa": "7.99"
+  },
+  {
+    "name": "VAIBHAV AGRAWAL",
+    "roll": "2K21/IT/187",
+    "cgpa": "8.48"
+  },
+  {
+    "name": "VAIBHAV KRISHAN",
+    "roll": "2K21/IT/188",
+    "cgpa": "7.26"
+  },
+  {
+    "name": "VAIBHAV PRATAP SINGH",
+    "roll": "2K21/IT/189",
+    "cgpa": "9.31"
+  },
+  {
+    "name": "VARUN KUMAR",
+    "roll": "2K21/IT/191",
+    "cgpa": "8.51"
+  },
+  {
+    "name": "VASU SHARMA",
+    "roll": "2K21/IT/193",
+    "cgpa": "7.56"
+  },
+  {
+    "name": "VIKAS",
+    "roll": "2K21/IT/194",
+    "cgpa": "7.84"
+  },
+  {
+    "name": "VIKAS SHARMA",
+    "roll": "2K21/IT/195",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "VIKASH",
+    "roll": "2K21/IT/196",
+    "cgpa": "7.83"
+  },
+  {
+    "name": "VIR GULATI",
+    "roll": "2K21/IT/197",
+    "cgpa": "8.90"
+  },
+  {
+    "name": "YASH KANOJIYA",
+    "roll": "2K21/IT/198",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "YASH KUMAR JARWAL",
+    "roll": "2K21/IT/199",
+    "cgpa": "8.16"
+  },
+  {
+    "name": "ABDUL BASIT",
+    "roll": "2K21/SE/01",
+    "cgpa": "8.23"
+  },
+  {
+    "name": "ABHAY DEWEDI",
+    "roll": "2K21/SE/02",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "ABHIMANYU DAYAL",
+    "roll": "2K21/SE/03",
+    "cgpa": "8.73"
+  },
+  {
+    "name": "ABHINANDAN SHARMA",
+    "roll": "2K21/SE/04",
+    "cgpa": "8.58"
+  },
+  {
+    "name": "ABHINAV",
+    "roll": "2K21/SE/05",
+    "cgpa": "8.09"
+  },
+  {
+    "name": "ABHINAV ASHUTOSH",
+    "roll": "2K21/SE/06",
+    "cgpa": "6.19"
+  },
+  {
+    "name": "ABHINAV CHAITANYA",
+    "roll": "2K21/SE/07",
+    "cgpa": "9.50"
+  },
+  {
+    "name": "ABHISHEK GOYAL",
+    "roll": "2K21/SE/08",
+    "cgpa": "9.16"
+  },
+  {
+    "name": "ADITYA GARG",
+    "roll": "2K21/SE/09",
+    "cgpa": "5.30"
+  },
+  {
+    "name": "ADITYA GUPTA",
+    "roll": "2K21/SE/10",
+    "cgpa": "9.12"
+  },
+  {
+    "name": "ADITYA L KRISHNA",
+    "roll": "2K21/SE/11",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "ADITYA PRAJAPATI",
+    "roll": "2K21/SE/12",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "ADITYA SHANKAR JHA",
+    "roll": "2K21/SE/13",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "ADITYA SHRINATH SHAW",
+    "roll": "2K21/SE/14",
+    "cgpa": "6.04"
+  },
+  {
+    "name": "ADITYA SINGHAL",
+    "roll": "2K21/SE/15",
+    "cgpa": "8.62"
+  },
+  {
+    "name": "AKASH",
+    "roll": "2K21/SE/16",
+    "cgpa": "6.53"
+  },
+  {
+    "name": "AKASH SONI",
+    "roll": "2K21/SE/17",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "AKSHAT GUPTA",
+    "roll": "2K21/SE/18",
+    "cgpa": "8.61"
+  },
+  {
+    "name": "AKSHAT SAINI",
+    "roll": "2K21/SE/19",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "AKSHIT KADYAN",
+    "roll": "2K21/SE/20",
+    "cgpa": "7.58"
+  },
+  {
+    "name": "AMAN GUPTA",
+    "roll": "2K21/SE/21",
+    "cgpa": "9.19"
+  },
+  {
+    "name": "AMAN JHA",
+    "roll": "2K21/SE/22",
+    "cgpa": "6.43"
+  },
+  {
+    "name": "AMAN MAHOUR",
+    "roll": "2K21/SE/24",
+    "cgpa": "6.85"
+  },
+  {
+    "name": "AMAN TANEJA",
+    "roll": "2K21/SE/25",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "AMANDEEP",
+    "roll": "2K21/SE/26",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "AMDURKAR SANKET SHIVANAND",
+    "roll": "2K21/SE/27",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "AMIT KUMAR",
+    "roll": "2K21/SE/28",
+    "cgpa": "7.32"
+  },
+  {
+    "name": "AMRITI GUPTA",
+    "roll": "2K21/SE/29",
+    "cgpa": "9.08"
+  },
+  {
+    "name": "ANKIT KUMAR SAH",
+    "roll": "2K21/SE/30",
+    "cgpa": "6.68"
+  },
+  {
+    "name": "ANKUSH SINGH",
+    "roll": "2K21/SE/31",
+    "cgpa": "8.25"
+  },
+  {
+    "name": "ANMOL GEETESH KUMAR",
+    "roll": "2K21/SE/32",
+    "cgpa": "8.17"
+  },
+  {
+    "name": "ANSH RASTOGI",
+    "roll": "2K21/SE/33",
+    "cgpa": "8.53"
+  },
+  {
+    "name": "ANSHUL",
+    "roll": "2K21/SE/35",
+    "cgpa": "8.40"
+  },
+  {
+    "name": "APARA MAITY",
+    "roll": "2K21/SE/36",
+    "cgpa": "9.04"
+  },
+  {
+    "name": "ARIN SINGHAL",
+    "roll": "2K21/SE/37",
+    "cgpa": "8.08"
+  },
+  {
+    "name": "ARYAMAN JAIN",
+    "roll": "2K21/SE/38",
+    "cgpa": "8.67"
+  },
+  {
+    "name": "ARYAN KAPUR",
+    "roll": "2K21/SE/39",
+    "cgpa": "6.20"
+  },
+  {
+    "name": "ARYAN RAJ",
+    "roll": "2K21/SE/40",
+    "cgpa": "9.27"
+  },
+  {
+    "name": "ASHISH KUMAR BHUSHAN",
+    "roll": "2K21/SE/41",
+    "cgpa": "7.66"
+  },
+  {
+    "name": "ATUL RANJAN",
+    "roll": "2K21/SE/42",
+    "cgpa": "8.42"
+  },
+  {
+    "name": "AUSAF ASLAM",
+    "roll": "2K21/SE/43",
+    "cgpa": "8.90"
+  },
+  {
+    "name": "AVANI UPRETI",
+    "roll": "2K21/SE/44",
+    "cgpa": "7.73"
+  },
+  {
+    "name": "AVYAV SHARMA",
+    "roll": "2K21/SE/45",
+    "cgpa": "8.93"
+  },
+  {
+    "name": "AYUSH CHAUDHARY",
+    "roll": "2K21/SE/46",
+    "cgpa": "7.38"
+  },
+  {
+    "name": "AYUSH JAISWAL",
+    "roll": "2K21/SE/47",
+    "cgpa": "7.77"
+  },
+  {
+    "name": "AYUSH KUMAR",
+    "roll": "2K21/SE/48",
+    "cgpa": "8.24"
+  },
+  {
+    "name": "AYUSH MARTOLIA",
+    "roll": "2K21/SE/49",
+    "cgpa": "4.87"
+  },
+  {
+    "name": "AYUSH SINGHAL",
+    "roll": "2K21/SE/50",
+    "cgpa": "8.16"
+  },
+  {
+    "name": "BALADITYA RAMANUJ DHAKA",
+    "roll": "2K21/SE/51",
+    "cgpa": "8.10"
+  },
+  {
+    "name": "BHANU KAUSHIK",
+    "roll": "2K21/SE/52",
+    "cgpa": "8.99"
+  },
+  {
+    "name": "BHARAT MISHRA",
+    "roll": "2K21/SE/54",
+    "cgpa": "8.23"
+  },
+  {
+    "name": "CHAITANYA RAJ",
+    "roll": "2K21/SE/55",
+    "cgpa": "7.14"
+  },
+  {
+    "name": "CHINTU KUMAR RAI",
+    "roll": "2K21/SE/56",
+    "cgpa": "7.54"
+  },
+  {
+    "name": "CHIRAG GOEL",
+    "roll": "2K21/SE/57",
+    "cgpa": "8.72"
+  },
+  {
+    "name": "DEVANSH BALHARA",
+    "roll": "2K21/SE/58",
+    "cgpa": "9.12"
+  },
+  {
+    "name": "DEVASHISH MEHTA",
+    "roll": "2K21/SE/59",
+    "cgpa": "7.15"
+  },
+  {
+    "name": "DHEEMAN KUMAR",
+    "roll": "2K21/SE/60",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "DHEERAJ TOKAS",
+    "roll": "2K21/SE/61",
+    "cgpa": "8.03"
+  },
+  {
+    "name": "DHRUV",
+    "roll": "2K21/SE/62",
+    "cgpa": "8.64"
+  },
+  {
+    "name": "DHRUV JAIN",
+    "roll": "2K21/SE/63",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "DHRUV KHOKHAR",
+    "roll": "2K21/SE/64",
+    "cgpa": "9.39"
+  },
+  {
+    "name": "DHRUV KUCHHAL",
+    "roll": "2K21/SE/65",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "DHRUV MALHOTRA",
+    "roll": "2K21/SE/66",
+    "cgpa": "8.92"
+  },
+  {
+    "name": "DILWINDER SINGH",
+    "roll": "2K21/SE/67",
+    "cgpa": "7.76"
+  },
+  {
+    "name": "DIVYANSHU",
+    "roll": "2K21/SE/68",
+    "cgpa": "7.13"
+  },
+  {
+    "name": "ESHVAS JAIN",
+    "roll": "2K21/SE/69",
+    "cgpa": "8.75"
+  },
+  {
+    "name": "GAURAV RAJ",
+    "roll": "2K21/SE/70",
+    "cgpa": "7.27"
+  },
+  {
+    "name": "GAURISH PASSI",
+    "roll": "2K21/SE/71",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "GEETESH KUMAR",
+    "roll": "2K21/SE/72",
+    "cgpa": "7.49"
+  },
+  {
+    "name": "GOPAL GUPTA",
+    "roll": "2K21/SE/73",
+    "cgpa": "8.92"
+  },
+  {
+    "name": "GOVIND JHA",
+    "roll": "2K21/SE/74",
+    "cgpa": "7.88"
+  },
+  {
+    "name": "GURTEJ SINGH",
+    "roll": "2K21/SE/75",
+    "cgpa": "8.13"
+  },
+  {
+    "name": "HARMANDEEP SINGH",
+    "roll": "2K21/SE/76",
+    "cgpa": "9.29"
+  },
+  {
+    "name": "HARSH",
+    "roll": "2K21/SE/77",
+    "cgpa": "8.28"
+  },
+  {
+    "name": "HARSH",
+    "roll": "2K21/SE/78",
+    "cgpa": "6.14"
+  },
+  {
+    "name": "HARSH",
+    "roll": "2K21/SE/79",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "HARSH KUMAR",
+    "roll": "2K21/SE/80",
+    "cgpa": "7.03"
+  },
+  {
+    "name": "HARSH NAGAR",
+    "roll": "2K21/SE/81",
+    "cgpa": "7.34"
+  },
+  {
+    "name": "HARSH SANTOSHI",
+    "roll": "2K21/SE/82",
+    "cgpa": "8.88"
+  },
+  {
+    "name": "HARSHIL NASHIER",
+    "roll": "2K21/SE/83",
+    "cgpa": "8.56"
+  },
+  {
+    "name": "HARSHIT GARG",
+    "roll": "2K21/SE/84",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "HEMANG",
+    "roll": "2K21/SE/85",
+    "cgpa": "6.80"
+  },
+  {
+    "name": "HETTI MEWAN KANKANAMGE",
+    "roll": "2K21/SE/86",
+    "cgpa": "6.39"
+  },
+  {
+    "name": "HIMANSHU",
+    "roll": "2K21/SE/87",
+    "cgpa": "5.26"
+  },
+  {
+    "name": "HRIDAY BHARDWAJ",
+    "roll": "2K21/SE/88",
+    "cgpa": "8.77"
+  },
+  {
+    "name": "HRIJUL CHAUHAN",
+    "roll": "2K21/SE/89",
+    "cgpa": "8.09"
+  },
+  {
+    "name": "ISHAN BHATIA",
+    "roll": "2K21/SE/90",
+    "cgpa": "8.52"
+  },
+  {
+    "name": "JAI KUMAR",
+    "roll": "2K21/SE/91",
+    "cgpa": "8.23"
+  },
+  {
+    "name": "JIVESH BATRA",
+    "roll": "2K21/SE/92",
+    "cgpa": "8.12"
+  },
+  {
+    "name": "KABIR BATRA",
+    "roll": "2K21/SE/93",
+    "cgpa": "8.64"
+  },
+  {
+    "name": "KARTIK TOMAR",
+    "roll": "2K21/SE/94",
+    "cgpa": "6.38"
+  },
+  {
+    "name": "KARUNESH KUMAR",
+    "roll": "2K21/SE/95",
+    "cgpa": "7.04"
+  },
+  {
+    "name": "KASERI ABDUL REHMAN",
+    "roll": "2K21/SE/96",
+    "cgpa": "8.97"
+  },
+  {
+    "name": "KATYAYANI SHARMA",
+    "roll": "2K21/SE/97",
+    "cgpa": "5.99"
+  },
+  {
+    "name": "KAUSHLENDRA PRATAP SINGH",
+    "roll": "2K21/SE/98",
+    "cgpa": "6.47"
+  },
+  {
+    "name": "KAVYESH AGARAWAL",
+    "roll": "2K21/SE/99",
+    "cgpa": "6.68"
+  },
+  {
+    "name": "KRISH NIMJE",
+    "roll": "2K21/SE/100",
+    "cgpa": "6.92"
+  },
+  {
+    "name": "KRISHAN KUMAR JHA",
+    "roll": "2K21/SE/101",
+    "cgpa": "8.82"
+  },
+  {
+    "name": "KRISHNA",
+    "roll": "2K21/SE/102",
+    "cgpa": "7.14"
+  },
+  {
+    "name": "KRISPY TYAGI",
+    "roll": "2K21/SE/103",
+    "cgpa": "9.08"
+  },
+  {
+    "name": "KRITIK AGGARWAL",
+    "roll": "2K21/SE/104",
+    "cgpa": "9.26"
+  },
+  {
+    "name": "KUMAR SHASWAT",
+    "roll": "2K21/SE/105",
+    "cgpa": "8.86"
+  },
+  {
+    "name": "KUSHAGARA KUMAR SINGH",
+    "roll": "2K21/SE/106",
+    "cgpa": "7.59"
+  },
+  {
+    "name": "KUSHAGRA ARORA",
+    "roll": "2K21/SE/107",
+    "cgpa": "8.57"
+  },
+  {
+    "name": "KUSHAGRA JARWAL",
+    "roll": "2K21/SE/108",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "LOKESH KUMAR",
+    "roll": "2K21/SE/109",
+    "cgpa": "8.22"
+  },
+  {
+    "name": "MANAS SWARNKAR",
+    "roll": "2K21/SE/110",
+    "cgpa": "7.32"
+  },
+  {
+    "name": "MARTIN LEO KING",
+    "roll": "2K21/SE/111",
+    "cgpa": "5.11"
+  },
+  {
+    "name": "MICHAEL MULUGETA DEMISSIE",
+    "roll": "2K21/SE/112",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "MIHIR KATYAL",
+    "roll": "2K21/SE/113",
+    "cgpa": "8.53"
+  },
+  {
+    "name": "MOHAMMAD MOMIN",
+    "roll": "2K21/SE/114",
+    "cgpa": "8.66"
+  },
+  {
+    "name": "MOHAMMAD SHADAB",
+    "roll": "2K21/SE/115",
+    "cgpa": "8.48"
+  },
+  {
+    "name": "MOHAMMED AMEEN NOMAN",
+    "roll": "2K21/SE/116",
+    "cgpa": "6.58"
+  },
+  {
+    "name": "MOHD VASEEM",
+    "roll": "2K21/SE/117",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "MOHIT KHANDELWAL",
+    "roll": "2K21/SE/118",
+    "cgpa": "4.26"
+  },
+  {
+    "name": "MOHIT PRABHAV GUPTA",
+    "roll": "2K21/SE/119",
+    "cgpa": "8.35"
+  },
+  {
+    "name": "MUKUL CHAUHAN",
+    "roll": "2K21/SE/120",
+    "cgpa": "8.58"
+  },
+  {
+    "name": "NAMAN SINGH",
+    "roll": "2K21/SE/124",
+    "cgpa": "9.27"
+  },
+  {
+    "name": "NAVNEET KUMAR BIND",
+    "roll": "2K21/SE/125",
+    "cgpa": "7.58"
+  },
+  {
+    "name": "NAVNEET KUMAR MRIDUL",
+    "roll": "2K21/SE/126",
+    "cgpa": "7.76"
+  },
+  {
+    "name": "NEERAJ JOSHI",
+    "roll": "2K21/SE/127",
+    "cgpa": "8.86"
+  },
+  {
+    "name": "NIKHIL GARG",
+    "roll": "2K21/SE/128",
+    "cgpa": "7.20"
+  },
+  {
+    "name": "NIKHIL GUPTA",
+    "roll": "2K21/SE/129",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "OLIVER EKKA",
+    "roll": "2K21/SE/130",
+    "cgpa": "6.46"
+  },
+  {
+    "name": "PALAK KUMARI",
+    "roll": "2K21/SE/131",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "PARAM",
+    "roll": "2K21/SE/132",
+    "cgpa": "8.08"
+  },
+  {
+    "name": "PARAS GUPTA",
+    "roll": "2K21/SE/133",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "PARV MALHOTRA",
+    "roll": "2K21/SE/134",
+    "cgpa": "7.59"
+  },
+  {
+    "name": "PEEHU SINGH",
+    "roll": "2K21/SE/135",
+    "cgpa": "7.34"
+  },
+  {
+    "name": "PRANAV KADHIROO",
+    "roll": "2K21/SE/136",
+    "cgpa": "8.42"
+  },
+  {
+    "name": "PRASHANT DHAKA",
+    "roll": "2K21/SE/137",
+    "cgpa": "7.64"
+  },
+  {
+    "name": "PRATEEK KUMAR TIWARI",
+    "roll": "2K21/SE/138",
+    "cgpa": "9.13"
+  },
+  {
+    "name": "PRATHAM BANSAL",
+    "roll": "2K21/SE/139",
+    "cgpa": "8.87"
+  },
+  {
+    "name": "PRATYAKSH KUMAR SINGH",
+    "roll": "2K21/SE/140",
+    "cgpa": "7.20"
+  },
+  {
+    "name": "PRATYANSH VAIBHAV",
+    "roll": "2K21/SE/141",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "PRAVEER KUMAR DEO",
+    "roll": "2K21/SE/142",
+    "cgpa": "8.23"
+  },
+  {
+    "name": "PREET KUMAR",
+    "roll": "2K21/SE/143",
+    "cgpa": "7.22"
+  },
+  {
+    "name": "PRERNA",
+    "roll": "2K21/SE/144",
+    "cgpa": "8.11"
+  },
+  {
+    "name": "PRIYANSHU",
+    "roll": "2K21/SE/145",
+    "cgpa": "7.54"
+  },
+  {
+    "name": "RAHUL KUMAR",
+    "roll": "2K21/SE/146",
+    "cgpa": "7.14"
+  },
+  {
+    "name": "RAJAT RAICHANDEL",
+    "roll": "2K21/SE/147",
+    "cgpa": "8.59"
+  },
+  {
+    "name": "RANJANA BESHRA",
+    "roll": "2K21/SE/148",
+    "cgpa": "7.93"
+  },
+  {
+    "name": "RISHI PRAKASH",
+    "roll": "2K21/SE/149",
+    "cgpa": "7.63"
+  },
+  {
+    "name": "RITHVIK KUMAR",
+    "roll": "2K21/SE/150",
+    "cgpa": "7.44"
+  },
+  {
+    "name": "ROHIT KUMAR",
+    "roll": "2K21/SE/151",
+    "cgpa": "8.73"
+  },
+  {
+    "name": "ROHIT KUMAR",
+    "roll": "2K21/SE/152",
+    "cgpa": "7.42"
+  },
+  {
+    "name": "SAHIL",
+    "roll": "2K21/SE/153",
+    "cgpa": "7.25"
+  },
+  {
+    "name": "SAKSHAM DHAWAN",
+    "roll": "2K21/SE/154",
+    "cgpa": "8.59"
+  },
+  {
+    "name": "SAKSHAM GAUTAM",
+    "roll": "2K21/SE/155",
+    "cgpa": "7.46"
+  },
+  {
+    "name": "SAKSHAM SENGAR",
+    "roll": "2K21/SE/156",
+    "cgpa": "8.35"
+  },
+  {
+    "name": "SAKSHI MAURYA",
+    "roll": "2K21/SE/157",
+    "cgpa": "8.03"
+  },
+  {
+    "name": "SAMAR PRATAP SINGH",
+    "roll": "2K21/SE/158",
+    "cgpa": "5.69"
+  },
+  {
+    "name": "SANOJ",
+    "roll": "2K21/SE/159",
+    "cgpa": "9.11"
+  },
+  {
+    "name": "SARTHAK GOYAL",
+    "roll": "2K21/SE/160",
+    "cgpa": "6.99"
+  },
+  {
+    "name": "SARTHAK MANOCHA",
+    "roll": "2K21/SE/161",
+    "cgpa": "6.43"
+  },
+  {
+    "name": "SARTHAK SARKAR",
+    "roll": "2K21/SE/162",
+    "cgpa": "9.02"
+  },
+  {
+    "name": "SAY SIDANA",
+    "roll": "2K21/SE/163",
+    "cgpa": "5.82"
+  },
+  {
+    "name": "SHASHANK ANAND",
+    "roll": "2K21/SE/164",
+    "cgpa": "6.97"
+  },
+  {
+    "name": "SHASHWAT AGGARWAL",
+    "roll": "2K21/SE/165",
+    "cgpa": "8.73"
+  },
+  {
+    "name": "SHASHWAT BINDAL",
+    "roll": "2K21/SE/166",
+    "cgpa": "8.55"
+  },
+  {
+    "name": "SHIVAM KUMAR",
+    "roll": "2K21/SE/167",
+    "cgpa": "8.13"
+  },
+  {
+    "name": "SHOBHON DAS",
+    "roll": "2K21/SE/168",
+    "cgpa": "7.77"
+  },
+  {
+    "name": "SHUBHAM LADHA",
+    "roll": "2K21/SE/169",
+    "cgpa": "8.89"
+  },
+  {
+    "name": "SHUBHAM RAI",
+    "roll": "2K21/SE/170",
+    "cgpa": "8.48"
+  },
+  {
+    "name": "SNEHAL KUMAR",
+    "roll": "2K21/SE/172",
+    "cgpa": "7.95"
+  },
+  {
+    "name": "SOURABH KUMAR",
+    "roll": "2K21/SE/173",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "SPARSH BHATIA",
+    "roll": "2K21/SE/174",
+    "cgpa": "6.41"
+  },
+  {
+    "name": "SUBHAM JHA",
+    "roll": "2K21/SE/175",
+    "cgpa": "9.13"
+  },
+  {
+    "name": "SUDHIR KUMAR",
+    "roll": "2K21/SE/176",
+    "cgpa": "6.48"
+  },
+  {
+    "name": "SUPREET DANGOL",
+    "roll": "2K21/SE/177",
+    "cgpa": "6.75"
+  },
+  {
+    "name": "SUYASH TYAGI",
+    "roll": "2K21/SE/178",
+    "cgpa": "9.19"
+  },
+  {
+    "name": "TANISHKA",
+    "roll": "2K21/SE/179",
+    "cgpa": "7.90"
+  },
+  {
+    "name": "TANUJ SHANKAR",
+    "roll": "2K21/SE/180",
+    "cgpa": "8.52"
+  },
+  {
+    "name": "TASMIYA",
+    "roll": "2K21/SE/181",
+    "cgpa": "6.54"
+  },
+  {
+    "name": "TEJAS GAHALLOT",
+    "roll": "2K21/SE/182",
+    "cgpa": "6.14"
+  },
+  {
+    "name": "TUSHAR KUMAR",
+    "roll": "2K21/SE/183",
+    "cgpa": "6.97"
+  },
+  {
+    "name": "TUSHAR SHARU",
+    "roll": "2K21/SE/184",
+    "cgpa": "7.31"
+  },
+  {
+    "name": "UTKARSH CHAUHAN",
+    "roll": "2K21/SE/185",
+    "cgpa": "8.91"
+  },
+  {
+    "name": "UTKARSH SHARMA",
+    "roll": "2K21/SE/186",
+    "cgpa": "8.84"
+  },
+  {
+    "name": "UTSAV JOSHI",
+    "roll": "2K21/SE/187",
+    "cgpa": "8.16"
+  },
+  {
+    "name": "VAIBHAV ARYA",
+    "roll": "2K21/SE/188",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "VASHU SAINI",
+    "roll": "2K21/SE/190",
+    "cgpa": "8.65"
+  },
+  {
+    "name": "VIDIT TAYAL",
+    "roll": "2K21/SE/191",
+    "cgpa": "8.71"
+  },
+  {
+    "name": "VIKAS GUPTA",
+    "roll": "2K21/SE/192",
+    "cgpa": "9.51"
+  },
+  {
+    "name": "VISHAL",
+    "roll": "2K21/SE/193",
+    "cgpa": "7.91"
+  },
+  {
+    "name": "VISHISHT MARORIA",
+    "roll": "2K21/SE/194",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "YASH GUPTA",
+    "roll": "2K21/SE/195",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "YESHI DORJI",
+    "roll": "2K21/SE/197",
+    "cgpa": "8.12"
+  },
+  {
+    "name": "YUV GARG",
+    "roll": "2K21/SE/198",
+    "cgpa": "9.21"
+  },
+  {
+    "name": "ZAID JAVAID",
+    "roll": "2K21/SE/199",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "AAKASH MAAN",
+    "roll": "2K21/MC/01",
+    "cgpa": "7.43"
+  },
+  {
+    "name": "AASHISH",
+    "roll": "2K21/MC/02",
+    "cgpa": "7.61"
+  },
+  {
+    "name": "ABDUL REHMAN ANSARI",
+    "roll": "2K21/MC/03",
+    "cgpa": "6.46"
+  },
+  {
+    "name": "ABHINAV",
+    "roll": "2K21/MC/04",
+    "cgpa": "6.08"
+  },
+  {
+    "name": "ABHINAV GARG",
+    "roll": "2K21/MC/05",
+    "cgpa": "7.52"
+  },
+  {
+    "name": "ABHINAV JANGRA",
+    "roll": "2K21/MC/06",
+    "cgpa": "6.95"
+  },
+  {
+    "name": "ABHISHEK",
+    "roll": "2K21/MC/07",
+    "cgpa": "4.76"
+  },
+  {
+    "name": "ABHISHEK JAIN",
+    "roll": "2K21/MC/08",
+    "cgpa": "7.13"
+  },
+  {
+    "name": "ABHISHEK KUMAR",
+    "roll": "2K21/MC/09",
+    "cgpa": "7.39"
+  },
+  {
+    "name": "ABHISHEK SAMBHARYA",
+    "roll": "2K21/MC/10",
+    "cgpa": "8.32"
+  },
+  {
+    "name": "ABHISHEK YADAV",
+    "roll": "2K21/MC/11",
+    "cgpa": "7.79"
+  },
+  {
+    "name": "ADITYA MISHRA",
+    "roll": "2K21/MC/12",
+    "cgpa": "9.45"
+  },
+  {
+    "name": "ADITYA NARAYAN SHARMA",
+    "roll": "2K21/MC/13",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "ADITYA NIRBHAY",
+    "roll": "2K21/MC/14",
+    "cgpa": "7.63"
+  },
+  {
+    "name": "ADVAY JAGOTA",
+    "roll": "2K21/MC/15",
+    "cgpa": "8.17"
+  },
+  {
+    "name": "AKHILESH SHARMA",
+    "roll": "2K21/MC/16",
+    "cgpa": "8.89"
+  },
+  {
+    "name": "ALOK KUMAR SINGH",
+    "roll": "2K21/MC/17",
+    "cgpa": "8.25"
+  },
+  {
+    "name": "AMAAN TARIQUE",
+    "roll": "2K21/MC/18",
+    "cgpa": "7.37"
+  },
+  {
+    "name": "AMAN",
+    "roll": "2K21/MC/19",
+    "cgpa": "8.15"
+  },
+  {
+    "name": "AMAN BORA",
+    "roll": "2K21/MC/20",
+    "cgpa": "6.41"
+  },
+  {
+    "name": "ANIKET",
+    "roll": "2K21/MC/21",
+    "cgpa": "7.00"
+  },
+  {
+    "name": "ANISH SINHA",
+    "roll": "2K21/MC/22",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "ANKUR RATHOD",
+    "roll": "2K21/MC/23",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "ANMOL GUPTA",
+    "roll": "2K21/MC/24",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "ANUJ KUMAR",
+    "roll": "2K21/MC/25",
+    "cgpa": "6.84"
+  },
+  {
+    "name": "APURV VATS",
+    "roll": "2K21/MC/27",
+    "cgpa": "8.40"
+  },
+  {
+    "name": "AREEB AHMED KHAN",
+    "roll": "2K21/MC/28",
+    "cgpa": "9.01"
+  },
+  {
+    "name": "ARIJIT SEN",
+    "roll": "2K21/MC/29",
+    "cgpa": "8.61"
+  },
+  {
+    "name": "ARJUN GARG",
+    "roll": "2K21/MC/30",
+    "cgpa": "8.22"
+  },
+  {
+    "name": "ARNAV KRISHN KUSHWAHA",
+    "roll": "2K21/MC/31",
+    "cgpa": "7.99"
+  },
+  {
+    "name": "ARYAMAN SINGLA",
+    "roll": "2K21/MC/32",
+    "cgpa": "8.48"
+  },
+  {
+    "name": "ARYAN NITINKUMAR RAJPARA",
+    "roll": "2K21/MC/33",
+    "cgpa": "7.14"
+  },
+  {
+    "name": "ARYAN PUNIA",
+    "roll": "2K21/MC/34",
+    "cgpa": "6.66"
+  },
+  {
+    "name": "ASHMIT SHARMA",
+    "roll": "2K21/MC/35",
+    "cgpa": "7.45"
+  },
+  {
+    "name": "ASHUTOSH KUMAR JHA",
+    "roll": "2K21/MC/36",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "AYUSH ANAND",
+    "roll": "2K21/MC/37",
+    "cgpa": "7.72"
+  },
+  {
+    "name": "AYUSH CHAHAR",
+    "roll": "2K21/MC/38",
+    "cgpa": "9.44"
+  },
+  {
+    "name": "AYUSH MALIK",
+    "roll": "2K21/MC/39",
+    "cgpa": "7.42"
+  },
+  {
+    "name": "AYUSHYA PRASOON",
+    "roll": "2K21/MC/40",
+    "cgpa": "8.45"
+  },
+  {
+    "name": "BHAVYA JAIN",
+    "roll": "2K21/MC/41",
+    "cgpa": "8.77"
+  },
+  {
+    "name": "BILAL KHAN",
+    "roll": "2K21/MC/42",
+    "cgpa": "8.25"
+  },
+  {
+    "name": "CHARVI SOLANKI",
+    "roll": "2K21/MC/43",
+    "cgpa": "7.77"
+  },
+  {
+    "name": "CHIRAG BANSAL",
+    "roll": "2K21/MC/44",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "CHIRAG BHARDWAJ",
+    "roll": "2K21/MC/45",
+    "cgpa": "6.93"
+  },
+  {
+    "name": "CHIRANJEEVI CHOUDHARY",
+    "roll": "2K21/MC/46",
+    "cgpa": "6.21"
+  },
+  {
+    "name": "DARA SINGH",
+    "roll": "2K21/MC/47",
+    "cgpa": "8.54"
+  },
+  {
+    "name": "DEEPAK",
+    "roll": "2K21/MC/48",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "DHEERESH CHANDRA",
+    "roll": "2K21/MC/51",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "DHRUV",
+    "roll": "2K21/MC/52",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "DHRUV KEJRIWAL",
+    "roll": "2K21/MC/53",
+    "cgpa": "9.39"
+  },
+  {
+    "name": "DIKSHANT JAJORIYA",
+    "roll": "2K21/MC/54",
+    "cgpa": "7.71"
+  },
+  {
+    "name": "DISHA SHANKAR",
+    "roll": "2K21/MC/55",
+    "cgpa": "7.38"
+  },
+  {
+    "name": "DIVYAM GOEL",
+    "roll": "2K21/MC/56",
+    "cgpa": "8.62"
+  },
+  {
+    "name": "DIVYAM RAHEJA",
+    "roll": "2K21/MC/57",
+    "cgpa": "9.28"
+  },
+  {
+    "name": "DIVYAM VIJAY",
+    "roll": "2K21/MC/58",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "GARVIT RASTOGI",
+    "roll": "2K21/MC/59",
+    "cgpa": "8.79"
+  },
+  {
+    "name": "GAUTAM",
+    "roll": "2K21/MC/60",
+    "cgpa": "7.56"
+  },
+  {
+    "name": "GAUTAM CHAUDHRY",
+    "roll": "2K21/MC/61",
+    "cgpa": "8.54"
+  },
+  {
+    "name": "GAUTAM SINGH TANWAR",
+    "roll": "2K21/MC/62",
+    "cgpa": "8.42"
+  },
+  {
+    "name": "HARSH",
+    "roll": "2K21/MC/64",
+    "cgpa": "7.94"
+  },
+  {
+    "name": "HARSH AGARWAL",
+    "roll": "2K21/MC/65",
+    "cgpa": "8.98"
+  },
+  {
+    "name": "HARSH GOYAL",
+    "roll": "2K21/MC/66",
+    "cgpa": "5.86"
+  },
+  {
+    "name": "HARSH MISHRA",
+    "roll": "2K21/MC/67",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "HARSH UMAK",
+    "roll": "2K21/MC/68",
+    "cgpa": "7.04"
+  },
+  {
+    "name": "HARSHIT KHURANA",
+    "roll": "2K21/MC/69",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "HARSHVARDHAN DHATTERWALL",
+    "roll": "2K21/MC/70",
+    "cgpa": "8.15"
+  },
+  {
+    "name": "HIMANSHU",
+    "roll": "2K21/MC/71",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "HIMANSHU CHAUDHARY",
+    "roll": "2K21/MC/72",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "HIMANSHU KUMAR",
+    "roll": "2K21/MC/73",
+    "cgpa": "7.44"
+  },
+  {
+    "name": "HIMANSHU SINGH",
+    "roll": "2K21/MC/74",
+    "cgpa": "5.80"
+  },
+  {
+    "name": "ISHITA GUPTA",
+    "roll": "2K21/MC/75",
+    "cgpa": "9.01"
+  },
+  {
+    "name": "ISHITA SREEJETH",
+    "roll": "2K21/MC/76",
+    "cgpa": "7.53"
+  },
+  {
+    "name": "JATIN",
+    "roll": "2K21/MC/77",
+    "cgpa": "9.14"
+  },
+  {
+    "name": "JATIN GUPTA",
+    "roll": "2K21/MC/78",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "JUNAID",
+    "roll": "2K21/MC/79",
+    "cgpa": "7.16"
+  },
+  {
+    "name": "KESHAV CHANDRA",
+    "roll": "2K21/MC/81",
+    "cgpa": "6.66"
+  },
+  {
+    "name": "KESHAV GOGIA",
+    "roll": "2K21/MC/82",
+    "cgpa": "8.88"
+  },
+  {
+    "name": "KRISH SAIKIA",
+    "roll": "2K21/MC/83",
+    "cgpa": "6.13"
+  },
+  {
+    "name": "KRISHANKANT",
+    "roll": "2K21/MC/84",
+    "cgpa": "7.78"
+  },
+  {
+    "name": "KRISHNA GUPTA",
+    "roll": "2K21/MC/85",
+    "cgpa": "8.50"
+  },
+  {
+    "name": "KRRISH MAHAJAN",
+    "roll": "2K21/MC/86",
+    "cgpa": "8.88"
+  },
+  {
+    "name": "KUMAR HARSH",
+    "roll": "2K21/MC/87",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "KUNAL AGARWAL",
+    "roll": "2K21/MC/88",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "KUNAL BANIWAL",
+    "roll": "2K21/MC/89",
+    "cgpa": "7.02"
+  },
+  {
+    "name": "KUNAL BANSAL",
+    "roll": "2K21/MC/90",
+    "cgpa": "8.87"
+  },
+  {
+    "name": "KUNAL CHAPRANA",
+    "roll": "2K21/MC/91",
+    "cgpa": "7.89"
+  },
+  {
+    "name": "KUNAL VERMA",
+    "roll": "2K21/MC/92",
+    "cgpa": "7.60"
+  },
+  {
+    "name": "KUSHAL AGGARWAL",
+    "roll": "2K21/MC/93",
+    "cgpa": "8.45"
+  },
+  {
+    "name": "LAKSHAY SHARMA",
+    "roll": "2K21/MC/94",
+    "cgpa": "7.94"
+  },
+  {
+    "name": "LAKSHYA GOTA",
+    "roll": "2K21/MC/95",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "LAVANAY GANOTRA",
+    "roll": "2K21/MC/96",
+    "cgpa": "8.50"
+  },
+  {
+    "name": "MADHAV PRASAD",
+    "roll": "2K21/MC/97",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "MALAY YADAV",
+    "roll": "2K21/MC/98",
+    "cgpa": "6.34"
+  },
+  {
+    "name": "MANAS GUPTA",
+    "roll": "2K21/MC/99",
+    "cgpa": "8.88"
+  },
+  {
+    "name": "MANAS KAPOOR",
+    "roll": "2K21/MC/100",
+    "cgpa": "8.68"
+  },
+  {
+    "name": "MANIK SINGH",
+    "roll": "2K21/MC/101",
+    "cgpa": "8.13"
+  },
+  {
+    "name": "MANISH GUPTA",
+    "roll": "2K21/MC/102",
+    "cgpa": "7.65"
+  },
+  {
+    "name": "MANPREET KAUR",
+    "roll": "2K21/MC/103",
+    "cgpa": "6.62"
+  },
+  {
+    "name": "MAYUR KUMAR",
+    "roll": "2K21/MC/104",
+    "cgpa": "8.67"
+  },
+  {
+    "name": "MEHUL KUMAR",
+    "roll": "2K21/MC/105",
+    "cgpa": "8.35"
+  },
+  {
+    "name": "MOHAK GUPTA",
+    "roll": "2K21/MC/106",
+    "cgpa": "8.19"
+  },
+  {
+    "name": "MOHD DANISH",
+    "roll": "2K21/MC/107",
+    "cgpa": "7.77"
+  },
+  {
+    "name": "MOHIT",
+    "roll": "2K21/MC/108",
+    "cgpa": "8.63"
+  },
+  {
+    "name": "MOHIT KUMAR",
+    "roll": "2K21/MC/109",
+    "cgpa": "7.97"
+  },
+  {
+    "name": "MONALISA MAITY",
+    "roll": "2K21/MC/110",
+    "cgpa": "9.04"
+  },
+  {
+    "name": "NAMAN",
+    "roll": "2K21/MC/112",
+    "cgpa": "7.54"
+  },
+  {
+    "name": "NAMAN AGGARWAL",
+    "roll": "2K21/MC/113",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "NAOREM YAIPHABA",
+    "roll": "2K21/MC/114",
+    "cgpa": "6.61"
+  },
+  {
+    "name": "NAVYAE SOLANKI",
+    "roll": "2K21/MC/115",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "NEERAJ",
+    "roll": "2K21/MC/116",
+    "cgpa": "7.70"
+  },
+  {
+    "name": "NIKHIL CHAUDHARY",
+    "roll": "2K21/MC/117",
+    "cgpa": "7.42"
+  },
+  {
+    "name": "NISHANT KUMAR",
+    "roll": "2K21/MC/118",
+    "cgpa": "8.71"
+  },
+  {
+    "name": "NISSAN KUMAR",
+    "roll": "2K21/MC/119",
+    "cgpa": "8.72"
+  },
+  {
+    "name": "PARAM BERAWALA",
+    "roll": "2K21/MC/120",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "PARTH PUNIA",
+    "roll": "2K21/MC/121",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "PIYUSH",
+    "roll": "2K21/MC/122",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "PRAGYAN SINHA",
+    "roll": "2K21/MC/123",
+    "cgpa": "8.18"
+  },
+  {
+    "name": "PRASHANT KUMAR",
+    "roll": "2K21/MC/124",
+    "cgpa": "7.82"
+  },
+  {
+    "name": "PRIYA CHAUDHARY",
+    "roll": "2K21/MC/125",
+    "cgpa": "8.23"
+  },
+  {
+    "name": "PRIYANSH KUSHWAHA",
+    "roll": "2K21/MC/126",
+    "cgpa": "8.05"
+  },
+  {
+    "name": "PRIYANSHU BARNWAL",
+    "roll": "2K21/MC/127",
+    "cgpa": "7.58"
+  },
+  {
+    "name": "PRIYANSHU MEENA",
+    "roll": "2K21/MC/128",
+    "cgpa": "5.77"
+  },
+  {
+    "name": "PUSHAN TRISAL",
+    "roll": "2K21/MC/130",
+    "cgpa": "5.59"
+  },
+  {
+    "name": "RAHUL",
+    "roll": "2K21/MC/131",
+    "cgpa": "6.61"
+  },
+  {
+    "name": "RAHUL SHARMA",
+    "roll": "2K21/MC/132",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "RAKSHAN NARULA",
+    "roll": "2K21/MC/133",
+    "cgpa": "8.82"
+  },
+  {
+    "name": "RASESH RANA",
+    "roll": "2K21/MC/134",
+    "cgpa": "8.85"
+  },
+  {
+    "name": "RAVJOL SINGH PAUL",
+    "roll": "2K21/MC/135",
+    "cgpa": "8.08"
+  },
+  {
+    "name": "RIDDHI SONI",
+    "roll": "2K21/MC/136",
+    "cgpa": "6.84"
+  },
+  {
+    "name": "RISHABH KUMAR SINGH",
+    "roll": "2K21/MC/137",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "RISHESH AGGARWAL",
+    "roll": "2K21/MC/138",
+    "cgpa": "8.94"
+  },
+  {
+    "name": "RITESH PAL",
+    "roll": "2K21/MC/139",
+    "cgpa": "6.63"
+  },
+  {
+    "name": "RIYA SEHRAWAT",
+    "roll": "2K21/MC/140",
+    "cgpa": "7.39"
+  },
+  {
+    "name": "RONAK SHEORAN",
+    "roll": "2K21/MC/141",
+    "cgpa": "8.19"
+  },
+  {
+    "name": "RUDRAKSHI SABHARWAL",
+    "roll": "2K21/MC/142",
+    "cgpa": "7.44"
+  },
+  {
+    "name": "SAAD AHMED",
+    "roll": "2K21/MC/144",
+    "cgpa": "8.94"
+  },
+  {
+    "name": "SAKSHAM JAIN",
+    "roll": "2K21/MC/145",
+    "cgpa": "7.40"
+  },
+  {
+    "name": "SAMYAK JAIN",
+    "roll": "2K21/MC/146",
+    "cgpa": "8.85"
+  },
+  {
+    "name": "SANDEEP KUMAR MEENA",
+    "roll": "2K21/MC/147",
+    "cgpa": "5.65"
+  },
+  {
+    "name": "SANJANA GURUNG",
+    "roll": "2K21/MC/148",
+    "cgpa": "7.97"
+  },
+  {
+    "name": "SANYAM GOYAL",
+    "roll": "2K21/MC/149",
+    "cgpa": "8.90"
+  },
+  {
+    "name": "SATENDER",
+    "roll": "2K21/MC/150",
+    "cgpa": "6.45"
+  },
+  {
+    "name": "SATYA PRAKASH",
+    "roll": "2K21/MC/151",
+    "cgpa": "6.32"
+  },
+  {
+    "name": "SAURABH KUMAR",
+    "roll": "2K21/MC/152",
+    "cgpa": "7.22"
+  },
+  {
+    "name": "SHIVAM",
+    "roll": "2K21/MC/153",
+    "cgpa": "6.25"
+  },
+  {
+    "name": "SHIVAM GAUTAM",
+    "roll": "2K21/MC/154",
+    "cgpa": "7.39"
+  },
+  {
+    "name": "SHIVAM KUMAR",
+    "roll": "2K21/MC/155",
+    "cgpa": "7.53"
+  },
+  {
+    "name": "SHIVAM MITTAL",
+    "roll": "2K21/MC/156",
+    "cgpa": "8.57"
+  },
+  {
+    "name": "SHOBHIT GAUTAM",
+    "roll": "2K21/MC/158",
+    "cgpa": "7.04"
+  },
+  {
+    "name": "SHUBHAM PHOGAT",
+    "roll": "2K21/MC/159",
+    "cgpa": "7.94"
+  },
+  {
+    "name": "SNEHIL SHARMA",
+    "roll": "2K21/MC/160",
+    "cgpa": "7.88"
+  },
+  {
+    "name": "SPARSH BANSAL",
+    "roll": "2K21/MC/161",
+    "cgpa": "7.00"
+  },
+  {
+    "name": "SUDHAKAR PAL",
+    "roll": "2K21/MC/162",
+    "cgpa": "7.32"
+  },
+  {
+    "name": "SUKHWINDER SINGH",
+    "roll": "2K21/MC/163",
+    "cgpa": "8.54"
+  },
+  {
+    "name": "SUSHANT DEY",
+    "roll": "2K21/MC/164",
+    "cgpa": "6.57"
+  },
+  {
+    "name": "SWAPNIL GARG",
+    "roll": "2K21/MC/165",
+    "cgpa": "8.02"
+  },
+  {
+    "name": "TITU",
+    "roll": "2K21/MC/167",
+    "cgpa": "6.30"
+  },
+  {
+    "name": "TITU SAIN",
+    "roll": "2K21/MC/168",
+    "cgpa": "7.52"
+  },
+  {
+    "name": "TUSHAR CHANDOLA",
+    "roll": "2K21/MC/169",
+    "cgpa": "8.71"
+  },
+  {
+    "name": "UJJWAL KUMAR",
+    "roll": "2K21/MC/170",
+    "cgpa": "8.12"
+  },
+  {
+    "name": "UMESH MEENA",
+    "roll": "2K21/MC/171",
+    "cgpa": "4.55"
+  },
+  {
+    "name": "UTKARSH PANDEY",
+    "roll": "2K21/MC/172",
+    "cgpa": "6.61"
+  },
+  {
+    "name": "UTKARSH SINGH",
+    "roll": "2K21/MC/173",
+    "cgpa": "8.51"
+  },
+  {
+    "name": "VEDANT MENDIRATTA",
+    "roll": "2K21/MC/175",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "VIDIT JAIN",
+    "roll": "2K21/MC/176",
+    "cgpa": "8.24"
+  },
+  {
+    "name": "VINAYAK SINGHAL",
+    "roll": "2K21/MC/177",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "VISHAL SHANDILYA",
+    "roll": "2K21/MC/178",
+    "cgpa": "7.88"
+  },
+  {
+    "name": "VISHWA SMITEN DOSHI",
+    "roll": "2K21/MC/179",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "VIVEK DHIR",
+    "roll": "2K21/MC/180",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "VIVEK VERMA",
+    "roll": "2K21/MC/181",
+    "cgpa": "7.43"
+  },
+  {
+    "name": "VYOM VERMA",
+    "roll": "2K21/MC/182",
+    "cgpa": "7.75"
+  },
+  {
+    "name": "YAMINI",
+    "roll": "2K21/MC/183",
+    "cgpa": "7.36"
+  },
+  {
+    "name": "YASH BAGGA",
+    "roll": "2K21/MC/184",
+    "cgpa": "6.58"
+  },
+  {
+    "name": "YASH GUPTA",
+    "roll": "2K21/MC/185",
+    "cgpa": "7.08"
+  },
+  {
+    "name": "YASH KHATRI",
+    "roll": "2K21/MC/186",
+    "cgpa": "7.54"
+  },
+  {
+    "name": "YASH VERMA",
+    "roll": "2K21/MC/187",
+    "cgpa": "9.05"
+  },
+  {
+    "name": "YATHARTH AHUJA",
+    "roll": "2K21/MC/188",
+    "cgpa": "8.25"
+  },
+  {
+    "name": "YUVRAJ VARSHNEY",
+    "roll": "2K21/MC/189",
+    "cgpa": "9.30"
+  },
+  {
+    "name": "AAKARSH DAWAR",
+    "roll": "2K21/EC/01",
+    "cgpa": "8.01"
+  },
+  {
+    "name": "AAKASH",
+    "roll": "2K21/EC/02",
+    "cgpa": "6.00"
+  },
+  {
+    "name": "AAKASH NISHAD",
+    "roll": "2K21/EC/03",
+    "cgpa": "6.39"
+  },
+  {
+    "name": "AAKASH VERMA",
+    "roll": "2K21/EC/04",
+    "cgpa": "7.06"
+  },
+  {
+    "name": "ABHAY KUMAR",
+    "roll": "2K21/EC/07",
+    "cgpa": "7.38"
+  },
+  {
+    "name": "ABHINAV SINGH",
+    "roll": "2K21/EC/08",
+    "cgpa": "6.96"
+  },
+  {
+    "name": "ABHISHEK NAITHANI",
+    "roll": "2K21/EC/09",
+    "cgpa": "8.35"
+  },
+  {
+    "name": "ABHISHEK PANDEY",
+    "roll": "2K21/EC/10",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "ACHINT GARG",
+    "roll": "2K21/EC/11",
+    "cgpa": "7.95"
+  },
+  {
+    "name": "ACHIRA ABHISHEK SHIROMANNE",
+    "roll": "2K21/EC/12",
+    "cgpa": "5.57"
+  },
+  {
+    "name": "ADITYA AGGARWAL",
+    "roll": "2K21/EC/13",
+    "cgpa": "9.45"
+  },
+  {
+    "name": "ADITYA ANAND",
+    "roll": "2K21/EC/14",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "ADITYA JAIN",
+    "roll": "2K21/EC/15",
+    "cgpa": "9.09"
+  },
+  {
+    "name": "ADITYA KHATANA",
+    "roll": "2K21/EC/16",
+    "cgpa": "7.52"
+  },
+  {
+    "name": "ADITYA YADAV",
+    "roll": "2K21/EC/17",
+    "cgpa": "6.04"
+  },
+  {
+    "name": "AKSHAT GUPTA",
+    "roll": "2K21/EC/19",
+    "cgpa": "7.54"
+  },
+  {
+    "name": "ALOK KUMAR",
+    "roll": "2K21/EC/21",
+    "cgpa": "7.44"
+  },
+  {
+    "name": "ALOK KUMAR BHARATI",
+    "roll": "2K21/EC/22",
+    "cgpa": "6.35"
+  },
+  {
+    "name": "ALOK PAL",
+    "roll": "2K21/EC/23",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "AMAN KUMAR YADAV",
+    "roll": "2K21/EC/24",
+    "cgpa": "7.31"
+  },
+  {
+    "name": "AMAN RAJ",
+    "roll": "2K21/EC/25",
+    "cgpa": "5.96"
+  },
+  {
+    "name": "AMRIT KUMAR",
+    "roll": "2K21/EC/26",
+    "cgpa": "6.67"
+  },
+  {
+    "name": "ANIRBAN BARMAN",
+    "roll": "2K21/EC/28",
+    "cgpa": "4.49"
+  },
+  {
+    "name": "ANISH KUMAR BISWAL",
+    "roll": "2K21/EC/29",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "ANKIT KUMAR",
+    "roll": "2K21/EC/30",
+    "cgpa": "7.56"
+  },
+  {
+    "name": "ANKIT NAIN",
+    "roll": "2K21/EC/31",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "ANKIT SINGH",
+    "roll": "2K21/EC/32",
+    "cgpa": "7.22"
+  },
+  {
+    "name": "ANKIT VERMA",
+    "roll": "2K21/EC/33",
+    "cgpa": "8.70"
+  },
+  {
+    "name": "ANKUR PANDEY",
+    "roll": "2K21/EC/34",
+    "cgpa": "7.70"
+  },
+  {
+    "name": "ANKUSH CHAURSIYA",
+    "roll": "2K21/EC/35",
+    "cgpa": "7.74"
+  },
+  {
+    "name": "ANSH RANA",
+    "roll": "2K21/EC/36",
+    "cgpa": "6.00"
+  },
+  {
+    "name": "ANSH TANDON",
+    "roll": "2K21/EC/37",
+    "cgpa": "6.89"
+  },
+  {
+    "name": "ANSHIKA",
+    "roll": "2K21/EC/38",
+    "cgpa": "7.07"
+  },
+  {
+    "name": "ANUJ GARG",
+    "roll": "2K21/EC/40",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "APOORVA BANERJEE",
+    "roll": "2K21/EC/42",
+    "cgpa": "8.66"
+  },
+  {
+    "name": "ARADHYA BHATIA",
+    "roll": "2K21/EC/43",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "ARJUN GUPTA",
+    "roll": "2K21/EC/45",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "ARPIT AGRAWAL",
+    "roll": "2K21/EC/46",
+    "cgpa": "7.31"
+  },
+  {
+    "name": "ARUN KUMAR",
+    "roll": "2K21/EC/47",
+    "cgpa": "6.74"
+  },
+  {
+    "name": "ARUN KUSHWAHA",
+    "roll": "2K21/EC/48",
+    "cgpa": "6.05"
+  },
+  {
+    "name": "ARUNIMA TRIPATHI",
+    "roll": "2K21/EC/49",
+    "cgpa": "8.69"
+  },
+  {
+    "name": "ARYAN DADWAL",
+    "roll": "2K21/EC/51",
+    "cgpa": "5.47"
+  },
+  {
+    "name": "ARYAN MOON",
+    "roll": "2K21/EC/52",
+    "cgpa": "7.63"
+  },
+  {
+    "name": "ARYAN RAWAT",
+    "roll": "2K21/EC/53",
+    "cgpa": "7.50"
+  },
+  {
+    "name": "ASHISH CHOTANI",
+    "roll": "2K21/EC/54",
+    "cgpa": "8.95"
+  },
+  {
+    "name": "ASHUTOSH KUMAR",
+    "roll": "2K21/EC/55",
+    "cgpa": "8.11"
+  },
+  {
+    "name": "ASHWIN NAIR",
+    "roll": "2K21/EC/56",
+    "cgpa": "5.76"
+  },
+  {
+    "name": "ATUL KUMAR",
+    "roll": "2K21/EC/58",
+    "cgpa": "6.80"
+  },
+  {
+    "name": "AYUSH CHOUDHARY",
+    "roll": "2K21/EC/59",
+    "cgpa": "5.27"
+  },
+  {
+    "name": "AYUSH DUBEY",
+    "roll": "2K21/EC/60",
+    "cgpa": "7.75"
+  },
+  {
+    "name": "AYUSH SHARMA",
+    "roll": "2K21/EC/62",
+    "cgpa": "8.58"
+  },
+  {
+    "name": "BHARAT SHYAM",
+    "roll": "2K21/EC/63",
+    "cgpa": "9.13"
+  },
+  {
+    "name": "CHAITANYA ANAND",
+    "roll": "2K21/EC/64",
+    "cgpa": "8.62"
+  },
+  {
+    "name": "CHAKSHU JHAMB",
+    "roll": "2K21/EC/65",
+    "cgpa": "7.54"
+  },
+  {
+    "name": "CHAYAN HANDOO",
+    "roll": "2K21/EC/66",
+    "cgpa": "8.80"
+  },
+  {
+    "name": "DANISHK BARWA",
+    "roll": "2K21/EC/68",
+    "cgpa": "8.10"
+  },
+  {
+    "name": "DEEPA CHAURASIYA",
+    "roll": "2K21/EC/69",
+    "cgpa": "7.19"
+  },
+  {
+    "name": "DEEPANSHU GAUTAM",
+    "roll": "2K21/EC/70",
+    "cgpa": "7.13"
+  },
+  {
+    "name": "DELDAN ANGMO",
+    "roll": "2K21/EC/71",
+    "cgpa": "6.89"
+  },
+  {
+    "name": "DEVANSH GODARA",
+    "roll": "2K21/EC/72",
+    "cgpa": "7.50"
+  },
+  {
+    "name": "DEVDUTT KAR",
+    "roll": "2K21/EC/73",
+    "cgpa": "2.32"
+  },
+  {
+    "name": "DHRUV BANSAL",
+    "roll": "2K21/EC/74",
+    "cgpa": "5.94"
+  },
+  {
+    "name": "DHRUV KHANNA",
+    "roll": "2K21/EC/75",
+    "cgpa": "9.07"
+  },
+  {
+    "name": "DIKSHA",
+    "roll": "2K21/EC/76",
+    "cgpa": "6.94"
+  },
+  {
+    "name": "DIKSHA DAYAL",
+    "roll": "2K21/EC/77",
+    "cgpa": "8.36"
+  },
+  {
+    "name": "DIKSHU",
+    "roll": "2K21/EC/78",
+    "cgpa": "7.15"
+  },
+  {
+    "name": "DIPANSHU KUMAR",
+    "roll": "2K21/EC/79",
+    "cgpa": "5.79"
+  },
+  {
+    "name": "DIVYANSH",
+    "roll": "2K21/EC/80",
+    "cgpa": "7.17"
+  },
+  {
+    "name": "DIVYANSH BANSAL",
+    "roll": "2K21/EC/81",
+    "cgpa": "7.99"
+  },
+  {
+    "name": "DIVYANSH SINHA",
+    "roll": "2K21/EC/82",
+    "cgpa": "8.05"
+  },
+  {
+    "name": "DIVYANSHU SINHA",
+    "roll": "2K21/EC/83",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "DUSHYANT GULIA",
+    "roll": "2K21/EC/84",
+    "cgpa": "7.66"
+  },
+  {
+    "name": "ELISHA JACOB NDUMARI",
+    "roll": "2K21/EC/85",
+    "cgpa": "7.41"
+  },
+  {
+    "name": "GAURAV KUMAR",
+    "roll": "2K21/EC/89",
+    "cgpa": "6.88"
+  },
+  {
+    "name": "GAURAV LODHI",
+    "roll": "2K21/EC/90",
+    "cgpa": "7.02"
+  },
+  {
+    "name": "GAURAV YADAV",
+    "roll": "2K21/EC/91",
+    "cgpa": "8.13"
+  },
+  {
+    "name": "HARDIK YADAV",
+    "roll": "2K21/EC/93",
+    "cgpa": "7.84"
+  },
+  {
+    "name": "HARSH KUMAR SINGH",
+    "roll": "2K21/EC/94",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "HARSH PANDEY",
+    "roll": "2K21/EC/95",
+    "cgpa": "6.42"
+  },
+  {
+    "name": "HARSH RAJ",
+    "roll": "2K21/EC/96",
+    "cgpa": "8.10"
+  },
+  {
+    "name": "HARSH VARDHAN SINGH",
+    "roll": "2K21/EC/97",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "HARSHIT KAKODHIYA",
+    "roll": "2K21/EC/98",
+    "cgpa": "8.83"
+  },
+  {
+    "name": "HARSHIT KUMAR YADAV",
+    "roll": "2K21/EC/99",
+    "cgpa": "8.51"
+  },
+  {
+    "name": "HARSHIT PARIHAR",
+    "roll": "2K21/EC/100",
+    "cgpa": "8.66"
+  },
+  {
+    "name": "HIMANSHU KHURANA",
+    "roll": "2K21/EC/101",
+    "cgpa": "7.75"
+  },
+  {
+    "name": "HIMANSHU SHARMA",
+    "roll": "2K21/EC/102",
+    "cgpa": "7.35"
+  },
+  {
+    "name": "ISHANK DABAS",
+    "roll": "2K21/EC/104",
+    "cgpa": "6.36"
+  },
+  {
+    "name": "JAI SHUBHAM RAIPURIA",
+    "roll": "2K21/EC/105",
+    "cgpa": "5.84"
+  },
+  {
+    "name": "JATIN",
+    "roll": "2K21/EC/106",
+    "cgpa": "5.82"
+  },
+  {
+    "name": "JATIN",
+    "roll": "2K21/EC/107",
+    "cgpa": "5.12"
+  },
+  {
+    "name": "JATIN YADAV",
+    "roll": "2K21/EC/108",
+    "cgpa": "6.08"
+  },
+  {
+    "name": "JAYESH KUMAR",
+    "roll": "2K21/EC/109",
+    "cgpa": "8.32"
+  },
+  {
+    "name": "KANESH SINGH JOSHAL",
+    "roll": "2K21/EC/110",
+    "cgpa": "5.95"
+  },
+  {
+    "name": "KARSHAN KHONGLAH",
+    "roll": "2K21/EC/112",
+    "cgpa": "5.44"
+  },
+  {
+    "name": "KARTIK NAROLIA",
+    "roll": "2K21/EC/113",
+    "cgpa": "7.43"
+  },
+  {
+    "name": "KARTIK UPENDER",
+    "roll": "2K21/EC/114",
+    "cgpa": "5.98"
+  },
+  {
+    "name": "KARTIKE JOSHI",
+    "roll": "2K21/EC/115",
+    "cgpa": "8.36"
+  },
+  {
+    "name": "KAUSHLESH CHAURASIYA",
+    "roll": "2K21/EC/116",
+    "cgpa": "6.97"
+  },
+  {
+    "name": "KESHAV JANGIR",
+    "roll": "2K21/EC/118",
+    "cgpa": "6.73"
+  },
+  {
+    "name": "KRISH AGGARWAL",
+    "roll": "2K21/EC/119",
+    "cgpa": "9.65"
+  },
+  {
+    "name": "KUNAL NAYYAR",
+    "roll": "2K21/EC/123",
+    "cgpa": "8.87"
+  },
+  {
+    "name": "KUNAL SINGLA",
+    "roll": "2K21/EC/124",
+    "cgpa": "8.78"
+  },
+  {
+    "name": "KURUSH RASTOGI",
+    "roll": "2K21/EC/125",
+    "cgpa": "8.80"
+  },
+  {
+    "name": "KUSHAGRA BHARDWAJ",
+    "roll": "2K21/EC/126",
+    "cgpa": "8.24"
+  },
+  {
+    "name": "KUSHAGRA GARG",
+    "roll": "2K21/EC/127",
+    "cgpa": "4.74"
+  },
+  {
+    "name": "LAKSHAY GUPTA",
+    "roll": "2K21/EC/128",
+    "cgpa": "7.55"
+  },
+  {
+    "name": "LAVISH MEENA",
+    "roll": "2K21/EC/129",
+    "cgpa": "7.11"
+  },
+  {
+    "name": "MADHAV BISHT",
+    "roll": "2K21/EC/130",
+    "cgpa": "6.25"
+  },
+  {
+    "name": "MADHAV GUPTA",
+    "roll": "2K21/EC/132",
+    "cgpa": "8.74"
+  },
+  {
+    "name": "MALLIKA",
+    "roll": "2K21/EC/133",
+    "cgpa": "5.75"
+  },
+  {
+    "name": "MANAV SINGH CHHONKAR",
+    "roll": "2K21/EC/134",
+    "cgpa": "6.33"
+  },
+  {
+    "name": "MANISH KUMAR",
+    "roll": "2K21/EC/135",
+    "cgpa": "7.14"
+  },
+  {
+    "name": "MANISH PAL",
+    "roll": "2K21/EC/136",
+    "cgpa": "7.21"
+  },
+  {
+    "name": "MAYANK SANGWAN",
+    "roll": "2K21/EC/137",
+    "cgpa": "6.58"
+  },
+  {
+    "name": "MAYANK SINGHAL",
+    "roll": "2K21/EC/138",
+    "cgpa": "8.87"
+  },
+  {
+    "name": "MEHUL KOTHIAL",
+    "roll": "2K21/EC/139",
+    "cgpa": "6.94"
+  },
+  {
+    "name": "MOHD RIZWAN",
+    "roll": "2K21/EC/141",
+    "cgpa": "7.46"
+  },
+  {
+    "name": "MOHIT SHARMA",
+    "roll": "2K21/EC/142",
+    "cgpa": "5.99"
+  },
+  {
+    "name": "MOHOMED SAHL SHAHEER",
+    "roll": "2K21/EC/143",
+    "cgpa": "8.08"
+  },
+  {
+    "name": "MUHASIB P P",
+    "roll": "2K21/EC/144",
+    "cgpa": "7.60"
+  },
+  {
+    "name": "NANDINI",
+    "roll": "2K21/EC/145",
+    "cgpa": "7.68"
+  },
+  {
+    "name": "NARESH BHADU",
+    "roll": "2K21/EC/146",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "NAVEEN KUSHWAHA",
+    "roll": "2K21/EC/147",
+    "cgpa": "7.21"
+  },
+  {
+    "name": "NIKHIL BARWA",
+    "roll": "2K21/EC/148",
+    "cgpa": "6.83"
+  },
+  {
+    "name": "NIRESH KUMAR",
+    "roll": "2K21/EC/150",
+    "cgpa": "6.41"
+  },
+  {
+    "name": "NISHANT",
+    "roll": "2K21/EC/151",
+    "cgpa": "6.68"
+  },
+  {
+    "name": "NITESH KUMAR YADAV",
+    "roll": "2K21/EC/152",
+    "cgpa": "6.78"
+  },
+  {
+    "name": "OJAS ARORA",
+    "roll": "2K21/EC/153",
+    "cgpa": "6.13"
+  },
+  {
+    "name": "OM GUPTA",
+    "roll": "2K21/EC/154",
+    "cgpa": "8.95"
+  },
+  {
+    "name": "PANKAJ",
+    "roll": "2K21/EC/155",
+    "cgpa": "8.52"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "roll": "2K21/EC/156",
+    "cgpa": "7.45"
+  },
+  {
+    "name": "POURUSH SACHDEVA",
+    "roll": "2K21/EC/157",
+    "cgpa": "9.28"
+  },
+  {
+    "name": "PRAJJWAL KUMAR",
+    "roll": "2K21/EC/158",
+    "cgpa": "7.30"
+  },
+  {
+    "name": "PRARABDHA SRIVASTAVA",
+    "roll": "2K21/EC/159",
+    "cgpa": "8.58"
+  },
+  {
+    "name": "PRATEEK SHOKEEN",
+    "roll": "2K21/EC/160",
+    "cgpa": "7.33"
+  },
+  {
+    "name": "PRATHAM AGARWAL",
+    "roll": "2K21/EC/161",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "PRATHAM DANG",
+    "roll": "2K21/EC/162",
+    "cgpa": "7.19"
+  },
+  {
+    "name": "PRATHAM KASHYAP",
+    "roll": "2K21/EC/163",
+    "cgpa": "4.07"
+  },
+  {
+    "name": "PRAVEEN KUMAR",
+    "roll": "2K21/EC/164",
+    "cgpa": "6.24"
+  },
+  {
+    "name": "PRAVEEN KUMAR SINGH",
+    "roll": "2K21/EC/165",
+    "cgpa": "7.93"
+  },
+  {
+    "name": "PRINCE JAISWAL",
+    "roll": "2K21/EC/166",
+    "cgpa": "7.01"
+  },
+  {
+    "name": "PRIYANSHU",
+    "roll": "2K21/EC/167",
+    "cgpa": "7.01"
+  },
+  {
+    "name": "PRIYANSHU PATEL",
+    "roll": "2K21/EC/168",
+    "cgpa": "7.65"
+  },
+  {
+    "name": "PUSHPESH RANJAN",
+    "roll": "2K21/EC/169",
+    "cgpa": "6.88"
+  },
+  {
+    "name": "RAGHAV AGRAWAL",
+    "roll": "2K21/EC/171",
+    "cgpa": "8.57"
+  },
+  {
+    "name": "RAHUL JARWAL",
+    "roll": "2K21/EC/172",
+    "cgpa": "4.11"
+  },
+  {
+    "name": "RAHUL RANJAN",
+    "roll": "2K21/EC/173",
+    "cgpa": "4.99"
+  },
+  {
+    "name": "RAJ PASWAN",
+    "roll": "2K21/EC/174",
+    "cgpa": "7.36"
+  },
+  {
+    "name": "RAJAN KUMAR JHA",
+    "roll": "2K21/EC/175",
+    "cgpa": "7.76"
+  },
+  {
+    "name": "RAJAT SHARDA",
+    "roll": "2K21/EC/176",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "RAJEEV",
+    "roll": "2K21/EC/177",
+    "cgpa": "5.75"
+  },
+  {
+    "name": "RAJEEV RANJAN PRADHAN",
+    "roll": "2K21/EC/178",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "RATAN PRAKASH MISHRA",
+    "roll": "2K21/EC/179",
+    "cgpa": "7.58"
+  },
+  {
+    "name": "RAVI MANN",
+    "roll": "2K21/EC/180",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "RETHVIK JAIN",
+    "roll": "2K21/EC/181",
+    "cgpa": "6.47"
+  },
+  {
+    "name": "RISHABH JAIN",
+    "roll": "2K21/EC/182",
+    "cgpa": "6.27"
+  },
+  {
+    "name": "RISHI ARYAN",
+    "roll": "2K21/EC/184",
+    "cgpa": "7.70"
+  },
+  {
+    "name": "ROHAN",
+    "roll": "2K21/EC/185",
+    "cgpa": "7.00"
+  },
+  {
+    "name": "ROHAN THAKUR",
+    "roll": "2K21/EC/186",
+    "cgpa": "6.78"
+  },
+  {
+    "name": "RONALD S M",
+    "roll": "2K21/EC/187",
+    "cgpa": "5.39"
+  },
+  {
+    "name": "SAARTHAK KERKETTA",
+    "roll": "2K21/EC/188",
+    "cgpa": "4.71"
+  },
+  {
+    "name": "SAHIL",
+    "roll": "2K21/EC/189",
+    "cgpa": "5.16"
+  },
+  {
+    "name": "SAHIL BANSAL",
+    "roll": "2K21/EC/190",
+    "cgpa": "6.43"
+  },
+  {
+    "name": "SAINYAM SETHI",
+    "roll": "2K21/EC/191",
+    "cgpa": "7.05"
+  },
+  {
+    "name": "SAKSHAM GAMBHIR",
+    "roll": "2K21/EC/192",
+    "cgpa": "8.89"
+  },
+  {
+    "name": "SAKSHAM MITTAL",
+    "roll": "2K21/EC/193",
+    "cgpa": "8.96"
+  },
+  {
+    "name": "SAMRATH SINGH",
+    "roll": "2K21/EC/194",
+    "cgpa": "7.46"
+  },
+  {
+    "name": "SANKET JAIN",
+    "roll": "2K21/EC/195",
+    "cgpa": "9.22"
+  },
+  {
+    "name": "SANYAT TANEJA",
+    "roll": "2K21/EC/196",
+    "cgpa": "8.18"
+  },
+  {
+    "name": "SARABJEET SINGH",
+    "roll": "2K21/EC/197",
+    "cgpa": "8.05"
+  },
+  {
+    "name": "SARTHAK GAUTAM",
+    "roll": "2K21/EC/198",
+    "cgpa": "4.46"
+  },
+  {
+    "name": "SATVIK",
+    "roll": "2K21/EC/199",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "SATWIK KHATTAR",
+    "roll": "2K21/EC/200",
+    "cgpa": "8.54"
+  },
+  {
+    "name": "AAKRIT SUGAN",
+    "roll": "2K21/EE/01",
+    "cgpa": "8.26"
+  },
+  {
+    "name": "AARTI SANGWAN",
+    "roll": "2K21/EE/02",
+    "cgpa": "7.55"
+  },
+  {
+    "name": "AARYAVEER BHARDWAJ",
+    "roll": "2K21/EE/04",
+    "cgpa": "8.77"
+  },
+  {
+    "name": "AASHISH GILL",
+    "roll": "2K21/EE/05",
+    "cgpa": "4.98"
+  },
+  {
+    "name": "AAYUSH",
+    "roll": "2K21/EE/06",
+    "cgpa": "9.22"
+  },
+  {
+    "name": "ABHAY GUPTA",
+    "roll": "2K21/EE/07",
+    "cgpa": "7.11"
+  },
+  {
+    "name": "ABHAY SHARMA",
+    "roll": "2K21/EE/08",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "ABHAY YADAV",
+    "roll": "2K21/EE/09",
+    "cgpa": "6.87"
+  },
+  {
+    "name": "ABHISHEK",
+    "roll": "2K21/EE/11",
+    "cgpa": "8.10"
+  },
+  {
+    "name": "ABHISHEK",
+    "roll": "2K21/EE/12",
+    "cgpa": "7.63"
+  },
+  {
+    "name": "ABHISHEK",
+    "roll": "2K21/EE/13",
+    "cgpa": "6.83"
+  },
+  {
+    "name": "ABHISHEK JANGRA",
+    "roll": "2K21/EE/14",
+    "cgpa": "8.79"
+  },
+  {
+    "name": "ABHISHEK KUMAR CHOUDHARY",
+    "roll": "2K21/EE/15",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "ABHISHEK RANJAN",
+    "roll": "2K21/EE/16",
+    "cgpa": "7.50"
+  },
+  {
+    "name": "ABHISHEK VERMA",
+    "roll": "2K21/EE/17",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "ADARSH TIWARI",
+    "roll": "2K21/EE/19",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "ADITYA BHIMWAL",
+    "roll": "2K21/EE/20",
+    "cgpa": "7.18"
+  },
+  {
+    "name": "ADITYA GUPTA",
+    "roll": "2K21/EE/22",
+    "cgpa": "8.99"
+  },
+  {
+    "name": "ADITYA JAIN",
+    "roll": "2K21/EE/23",
+    "cgpa": "8.60"
+  },
+  {
+    "name": "ADITYA KUMAR SINGH",
+    "roll": "2K21/EE/25",
+    "cgpa": "6.99"
+  },
+  {
+    "name": "ADITYA SAINI",
+    "roll": "2K21/EE/26",
+    "cgpa": "7.66"
+  },
+  {
+    "name": "AGRIM NAHATA",
+    "roll": "2K21/EE/28",
+    "cgpa": "8.60"
+  },
+  {
+    "name": "AJAY KUMAR SAINI",
+    "roll": "2K21/EE/29",
+    "cgpa": "6.46"
+  },
+  {
+    "name": "AKAGRA GUPTA",
+    "roll": "2K21/EE/30",
+    "cgpa": "7.53"
+  },
+  {
+    "name": "AKASH JAIN",
+    "roll": "2K21/EE/31",
+    "cgpa": "8.13"
+  },
+  {
+    "name": "AKSHAT ANAND",
+    "roll": "2K21/EE/32",
+    "cgpa": "7.81"
+  },
+  {
+    "name": "AKSHAY VERMA",
+    "roll": "2K21/EE/36",
+    "cgpa": "6.47"
+  },
+  {
+    "name": "AMAN DEEP",
+    "roll": "2K21/EE/37",
+    "cgpa": "7.55"
+  },
+  {
+    "name": "AMAN SIRSAM",
+    "roll": "2K21/EE/39",
+    "cgpa": "4.65"
+  },
+  {
+    "name": "AMANDEEP SINGH",
+    "roll": "2K21/EE/40",
+    "cgpa": "7.88"
+  },
+  {
+    "name": "AMRITANSHU JHA",
+    "roll": "2K21/EE/41",
+    "cgpa": "7.62"
+  },
+  {
+    "name": "ANAND JHA",
+    "roll": "2K21/EE/42",
+    "cgpa": "7.22"
+  },
+  {
+    "name": "ANIKET KUMAR",
+    "roll": "2K21/EE/43",
+    "cgpa": "9.68"
+  },
+  {
+    "name": "ANIKET MAZUMDER",
+    "roll": "2K21/EE/44",
+    "cgpa": "7.32"
+  },
+  {
+    "name": "ANIKET SINGH",
+    "roll": "2K21/EE/45",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "ANIRUDH MEHTA",
+    "roll": "2K21/EE/47",
+    "cgpa": "9.42"
+  },
+  {
+    "name": "ANKIT",
+    "roll": "2K21/EE/48",
+    "cgpa": "6.54"
+  },
+  {
+    "name": "ANKIT",
+    "roll": "2K21/EE/49",
+    "cgpa": "5.68"
+  },
+  {
+    "name": "ANKIT BALA",
+    "roll": "2K21/EE/50",
+    "cgpa": "5.92"
+  },
+  {
+    "name": "ANKIT KUMAR",
+    "roll": "2K21/EE/51",
+    "cgpa": "7.30"
+  },
+  {
+    "name": "ANKIT RAJ",
+    "roll": "2K21/EE/52",
+    "cgpa": "6.30"
+  },
+  {
+    "name": "ANMOL GOYAL",
+    "roll": "2K21/EE/54",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "ANMOL SHARMA",
+    "roll": "2K21/EE/55",
+    "cgpa": "7.35"
+  },
+  {
+    "name": "ANSHUL VERMA",
+    "roll": "2K21/EE/59",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "ANUJ RAWAT",
+    "roll": "2K21/EE/61",
+    "cgpa": "6.46"
+  },
+  {
+    "name": "ARNAV RAGHAV SHARMA",
+    "roll": "2K21/EE/63",
+    "cgpa": "6.70"
+  },
+  {
+    "name": "ARUNAV DHAKA",
+    "roll": "2K21/EE/64",
+    "cgpa": "8.12"
+  },
+  {
+    "name": "ARYAK GAUTAM",
+    "roll": "2K21/EE/65",
+    "cgpa": "5.57"
+  },
+  {
+    "name": "ARYAMAN SAINI",
+    "roll": "2K21/EE/66",
+    "cgpa": "7.49"
+  },
+  {
+    "name": "ARYAN",
+    "roll": "2K21/EE/68",
+    "cgpa": "7.51"
+  },
+  {
+    "name": "ARYAN CHOUDHARY",
+    "roll": "2K21/EE/69",
+    "cgpa": "6.93"
+  },
+  {
+    "name": "ARYAN NAIN",
+    "roll": "2K21/EE/70",
+    "cgpa": "8.54"
+  },
+  {
+    "name": "ARYAN TEJAN",
+    "roll": "2K21/EE/71",
+    "cgpa": "6.84"
+  },
+  {
+    "name": "ASHISH SHARMA",
+    "roll": "2K21/EE/72",
+    "cgpa": "6.55"
+  },
+  {
+    "name": "ASHUTOSH GARG",
+    "roll": "2K21/EE/73",
+    "cgpa": "8.54"
+  },
+  {
+    "name": "ASHUTOSH NAYAN",
+    "roll": "2K21/EE/75",
+    "cgpa": "8.07"
+  },
+  {
+    "name": "ATHARVA KUMAR JHA",
+    "roll": "2K21/EE/77",
+    "cgpa": "7.21"
+  },
+  {
+    "name": "ATUL",
+    "roll": "2K21/EE/78",
+    "cgpa": "7.10"
+  },
+  {
+    "name": "ATUL BEDWAL",
+    "roll": "2K21/EE/79",
+    "cgpa": "7.16"
+  },
+  {
+    "name": "AVANISH KUMAR",
+    "roll": "2K21/EE/81",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "AYUSH AGGARWAL",
+    "roll": "2K21/EE/82",
+    "cgpa": "6.31"
+  },
+  {
+    "name": "AYUSH ANAND",
+    "roll": "2K21/EE/83",
+    "cgpa": "7.78"
+  },
+  {
+    "name": "AYUSH GUPTA",
+    "roll": "2K21/EE/84",
+    "cgpa": "7.91"
+  },
+  {
+    "name": "AYUSH GUPTA",
+    "roll": "2K21/EE/85",
+    "cgpa": "9.68"
+  },
+  {
+    "name": "AYUSH JAISWAL",
+    "roll": "2K21/EE/86",
+    "cgpa": "8.10"
+  },
+  {
+    "name": "AYUSH KARIR",
+    "roll": "2K21/EE/87",
+    "cgpa": "6.73"
+  },
+  {
+    "name": "BHARTESH MEENA",
+    "roll": "2K21/EE/88",
+    "cgpa": "8.84"
+  },
+  {
+    "name": "BHAVAY AGGARWAL",
+    "roll": "2K21/EE/89",
+    "cgpa": "8.10"
+  },
+  {
+    "name": "BHAVISHAY NAIN",
+    "roll": "2K21/EE/90",
+    "cgpa": "6.72"
+  },
+  {
+    "name": "BHUVAN VERMA",
+    "roll": "2K21/EE/91",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "CHANDERVEER SINGH CHAUHAN",
+    "roll": "2K21/EE/93",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "CHIRAG PRASAD",
+    "roll": "2K21/EE/94",
+    "cgpa": "6.96"
+  },
+  {
+    "name": "CHIRAG YADAV",
+    "roll": "2K21/EE/95",
+    "cgpa": "6.40"
+  },
+  {
+    "name": "DAKSH",
+    "roll": "2K21/EE/96",
+    "cgpa": "8.39"
+  },
+  {
+    "name": "DEEPANSHU AZAD",
+    "roll": "2K21/EE/97",
+    "cgpa": "6.55"
+  },
+  {
+    "name": "DEEPANSHU",
+    "roll": "2K21/EE/98",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "DHAIRYA SHARMA",
+    "roll": "2K21/EE/100",
+    "cgpa": "8.97"
+  },
+  {
+    "name": "DHRUV BAKSHI",
+    "roll": "2K21/EE/101",
+    "cgpa": "6.51"
+  },
+  {
+    "name": "DHRUV GOEL",
+    "roll": "2K21/EE/102",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "DHRUV MEHRA",
+    "roll": "2K21/EE/103",
+    "cgpa": "9.18"
+  },
+  {
+    "name": "DIKSHANT",
+    "roll": "2K21/EE/105",
+    "cgpa": "7.20"
+  },
+  {
+    "name": "DIVYANSHU",
+    "roll": "2K21/EE/107",
+    "cgpa": "6.68"
+  },
+  {
+    "name": "ESHANT",
+    "roll": "2K21/EE/108",
+    "cgpa": "6.65"
+  },
+  {
+    "name": "GARVIT KALA",
+    "roll": "2K21/EE/110",
+    "cgpa": "7.27"
+  },
+  {
+    "name": "GAURAV",
+    "roll": "2K21/EE/111",
+    "cgpa": "6.88"
+  },
+  {
+    "name": "GAURAV ARORA",
+    "roll": "2K21/EE/112",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "GAUTAM",
+    "roll": "2K21/EE/113",
+    "cgpa": "5.62"
+  },
+  {
+    "name": "GAUTAM",
+    "roll": "2K21/EE/114",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "GITANSH MEHTA",
+    "roll": "2K21/EE/116",
+    "cgpa": "9.44"
+  },
+  {
+    "name": "GOKUL AGARWAL",
+    "roll": "2K21/EE/117",
+    "cgpa": "7.02"
+  },
+  {
+    "name": "GOVIND",
+    "roll": "2K21/EE/119",
+    "cgpa": "8.12"
+  },
+  {
+    "name": "GOVIND BARGUJAR",
+    "roll": "2K21/EE/120",
+    "cgpa": "6.59"
+  },
+  {
+    "name": "HARDIK",
+    "roll": "2K21/EE/121",
+    "cgpa": "8.91"
+  },
+  {
+    "name": "HARDIK LAL",
+    "roll": "2K21/EE/122",
+    "cgpa": "6.54"
+  },
+  {
+    "name": "HARRY",
+    "roll": "2K21/EE/123",
+    "cgpa": "6.47"
+  },
+  {
+    "name": "HARSH AHLAWAT",
+    "roll": "2K21/EE/124",
+    "cgpa": "7.44"
+  },
+  {
+    "name": "HARSH CHOUDHARY",
+    "roll": "2K21/EE/125",
+    "cgpa": "7.50"
+  },
+  {
+    "name": "HARSH VERMA",
+    "roll": "2K21/EE/126",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "HARSHIT GUPTA",
+    "roll": "2K21/EE/127",
+    "cgpa": "7.80"
+  },
+  {
+    "name": "HARSHIT KUMAR",
+    "roll": "2K21/EE/128",
+    "cgpa": "8.03"
+  },
+  {
+    "name": "HARSHIT PANT",
+    "roll": "2K21/EE/129",
+    "cgpa": "7.15"
+  },
+  {
+    "name": "HEMANG JASWANI",
+    "roll": "2K21/EE/130",
+    "cgpa": "5.52"
+  },
+  {
+    "name": "HIMANSHU",
+    "roll": "2K21/EE/132",
+    "cgpa": "7.34"
+  },
+  {
+    "name": "HIMANSHU GUPTA",
+    "roll": "2K21/EE/133",
+    "cgpa": "8.33"
+  },
+  {
+    "name": "HIMANSHU KUMAR",
+    "roll": "2K21/EE/134",
+    "cgpa": "4.71"
+  },
+  {
+    "name": "HIMANSHU KUMAR",
+    "roll": "2K21/EE/135",
+    "cgpa": "7.73"
+  },
+  {
+    "name": "HIMANSHU NIRWAL",
+    "roll": "2K21/EE/136",
+    "cgpa": "5.83"
+  },
+  {
+    "name": "HITESH MEHRA",
+    "roll": "2K21/EE/138",
+    "cgpa": "8.14"
+  },
+  {
+    "name": "HRISHIKA CHAKRABORTY",
+    "roll": "2K21/EE/139",
+    "cgpa": "9.07"
+  },
+  {
+    "name": "JAMYANG DORJI",
+    "roll": "2K21/EE/140",
+    "cgpa": "8.43"
+  },
+  {
+    "name": "JASBIR KUMAR",
+    "roll": "2K21/EE/142",
+    "cgpa": "8.83"
+  },
+  {
+    "name": "JASJEET SINGH MANN",
+    "roll": "2K21/EE/143",
+    "cgpa": "7.95"
+  },
+  {
+    "name": "JATIN KUMAR",
+    "roll": "2K21/EE/144",
+    "cgpa": "7.17"
+  },
+  {
+    "name": "JATIN KUMAR",
+    "roll": "2K21/EE/145",
+    "cgpa": "6.94"
+  },
+  {
+    "name": "JATIN KUMAR",
+    "roll": "2K21/EE/146",
+    "cgpa": "6.19"
+  },
+  {
+    "name": "JATIN MEENA",
+    "roll": "2K21/EE/147",
+    "cgpa": "6.62"
+  },
+  {
+    "name": "JAYESH KUMAR",
+    "roll": "2K21/EE/148",
+    "cgpa": "6.07"
+  },
+  {
+    "name": "JITESH BAKOLIA",
+    "roll": "2K21/EE/149",
+    "cgpa": "6.02"
+  },
+  {
+    "name": "JITESH GUPTA",
+    "roll": "2K21/EE/150",
+    "cgpa": "7.88"
+  },
+  {
+    "name": "KAMAL",
+    "roll": "2K21/EE/151",
+    "cgpa": "5.80"
+  },
+  {
+    "name": "KAMAL NAYAN SINGH",
+    "roll": "2K21/EE/152",
+    "cgpa": "6.33"
+  },
+  {
+    "name": "KARAN ANAND",
+    "roll": "2K21/EE/153",
+    "cgpa": "8.61"
+  },
+  {
+    "name": "KARAN BANSAL",
+    "roll": "2K21/EE/154",
+    "cgpa": "8.36"
+  },
+  {
+    "name": "KARMA TENZIN",
+    "roll": "2K21/EE/155",
+    "cgpa": "6.62"
+  },
+  {
+    "name": "KARTIK JAIN",
+    "roll": "2K21/EE/156",
+    "cgpa": "8.84"
+  },
+  {
+    "name": "KARTIKAY SRIVASTAVA",
+    "roll": "2K21/EE/159",
+    "cgpa": "8.68"
+  },
+  {
+    "name": "KAUSHAL KUMAR",
+    "roll": "2K21/EE/160",
+    "cgpa": "9.00"
+  },
+  {
+    "name": "KAVYA",
+    "roll": "2K21/EE/161",
+    "cgpa": "5.60"
+  },
+  {
+    "name": "KREITIKA YADAV",
+    "roll": "2K21/EE/162",
+    "cgpa": "7.74"
+  },
+  {
+    "name": "KRITEK KUMAR GUPTA",
+    "roll": "2K21/EE/163",
+    "cgpa": "8.44"
+  },
+  {
+    "name": "KSHITIJ KANOJIA",
+    "roll": "2K21/EE/164",
+    "cgpa": "4.74"
+  },
+  {
+    "name": "KUNAL",
+    "roll": "2K21/EE/165",
+    "cgpa": "8.61"
+  },
+  {
+    "name": "KUNAL KAUSHIK",
+    "roll": "2K21/EE/166",
+    "cgpa": "8.83"
+  },
+  {
+    "name": "KUNAL SINGH DINKAR",
+    "roll": "2K21/EE/168",
+    "cgpa": "7.15"
+  },
+  {
+    "name": "KUSHAGRA JAIN",
+    "roll": "2K21/EE/169",
+    "cgpa": "7.40"
+  },
+  {
+    "name": "KUSHAGRA MALHOTRA",
+    "roll": "2K21/EE/170",
+    "cgpa": "8.16"
+  },
+  {
+    "name": "LAKSHAY",
+    "roll": "2K21/EE/171",
+    "cgpa": "8.92"
+  },
+  {
+    "name": "LAKSHEY",
+    "roll": "2K21/EE/172",
+    "cgpa": "5.68"
+  },
+  {
+    "name": "LALIT",
+    "roll": "2K21/EE/173",
+    "cgpa": "6.16"
+  },
+  {
+    "name": "MADHUR AGARWAL",
+    "roll": "2K21/EE/175",
+    "cgpa": "9.83"
+  },
+  {
+    "name": "MAHESH KUMAR YADAV",
+    "roll": "2K21/EE/176",
+    "cgpa": "7.87"
+  },
+  {
+    "name": "MANIT AGGARWAL",
+    "roll": "2K21/EE/177",
+    "cgpa": "8.72"
+  },
+  {
+    "name": "MAYANK MEENA",
+    "roll": "2K21/EE/178",
+    "cgpa": "5.29"
+  },
+  {
+    "name": "MAYANK YADAV",
+    "roll": "2K21/EE/179",
+    "cgpa": "5.94"
+  },
+  {
+    "name": "MD REHAAN",
+    "roll": "2K21/EE/181",
+    "cgpa": "8.38"
+  },
+  {
+    "name": "MD. ADEEN ASHRAF",
+    "roll": "2K21/EE/183",
+    "cgpa": "8.96"
+  },
+  {
+    "name": "MIELEK TATHAGAT",
+    "roll": "2K21/EE/184",
+    "cgpa": "7.04"
+  },
+  {
+    "name": "MOHD AADIL",
+    "roll": "2K21/EE/185",
+    "cgpa": "7.06"
+  },
+  {
+    "name": "MOHD SUHAIL MALIK",
+    "roll": "2K21/EE/186",
+    "cgpa": "5.60"
+  },
+  {
+    "name": "MOHIT GURUNG",
+    "roll": "2K21/EE/187",
+    "cgpa": "7.12"
+  },
+  {
+    "name": "MOKSH BASHISTA",
+    "roll": "2K21/EE/188",
+    "cgpa": "8.46"
+  },
+  {
+    "name": "MUKESH",
+    "roll": "2K21/EE/189",
+    "cgpa": "7.63"
+  },
+  {
+    "name": "MUKUL",
+    "roll": "2K21/EE/190",
+    "cgpa": "7.03"
+  },
+  {
+    "name": "MUKUL YADAV",
+    "roll": "2K21/EE/191",
+    "cgpa": "7.14"
+  },
+  {
+    "name": "NAITIK",
+    "roll": "2K21/EE/192",
+    "cgpa": "7.22"
+  },
+  {
+    "name": "NARAYAN JEE",
+    "roll": "2K21/EE/194",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "NAVI HASAN",
+    "roll": "2K21/EE/195",
+    "cgpa": "6.53"
+  },
+  {
+    "name": "NEERAJ BHARDWAJ",
+    "roll": "2K21/EE/197",
+    "cgpa": "9.39"
+  },
+  {
+    "name": "NEO BERNARD BOPA",
+    "roll": "2K21/EE/198",
+    "cgpa": "7.85"
+  },
+  {
+    "name": "NIKHIL KUMAR",
+    "roll": "2K21/EE/199",
+    "cgpa": "7.19"
+  },
+  {
+    "name": "NIKSHEP",
+    "roll": "2K21/EE/200",
+    "cgpa": "8.27"
+  },
+  {
+    "name": "YASH SHARMA",
+    "roll": "2K21/IT/201",
+    "cgpa": "9.18"
+  },
+  {
+    "name": "YASH SHOKEEN",
+    "roll": "2K21/IT/202",
+    "cgpa": "7.83"
+  },
+  {
+    "name": "YOEGI DWISON JUMHADI",
+    "roll": "2K21/IT/203",
+    "cgpa": "7.19"
+  },
+  {
+    "name": "SATYAM KUMAR",
+    "roll": "2K21/EC/201",
+    "cgpa": "6.64"
+  },
+  {
+    "name": "SATYAM KUMAR",
+    "roll": "2K21/EC/202",
+    "cgpa": "6.89"
+  },
+  {
+    "name": "SAURABH CHAUHAN",
+    "roll": "2K21/EC/203",
+    "cgpa": "8.75"
+  },
+  {
+    "name": "SAURABH MEENA",
+    "roll": "2K21/EC/204",
+    "cgpa": "6.55"
+  },
+  {
+    "name": "SHASHWAT JAIN",
+    "roll": "2K21/EC/206",
+    "cgpa": "7.15"
+  },
+  {
+    "name": "SHAYAN AATIF",
+    "roll": "2K21/EC/207",
+    "cgpa": "8.36"
+  },
+  {
+    "name": "SHIKHAR RAJPUT",
+    "roll": "2K21/EC/208",
+    "cgpa": "7.02"
+  },
+  {
+    "name": "SHIVAM",
+    "roll": "2K21/EC/209",
+    "cgpa": "6.62"
+  },
+  {
+    "name": "SHIVAM",
+    "roll": "2K21/EC/210",
+    "cgpa": "7.50"
+  },
+  {
+    "name": "SHIVAM KUMAR",
+    "roll": "2K21/EC/211",
+    "cgpa": "6.40"
+  },
+  {
+    "name": "SHIVAM MAURYA",
+    "roll": "2K21/EC/212",
+    "cgpa": "8.49"
+  },
+  {
+    "name": "SHIVAM TIWARI",
+    "roll": "2K21/EC/214",
+    "cgpa": "7.04"
+  },
+  {
+    "name": "SHUBHAM SAURAV",
+    "roll": "2K21/EC/216",
+    "cgpa": "6.96"
+  },
+  {
+    "name": "SIDDHANT DIXIT",
+    "roll": "2K21/EC/217",
+    "cgpa": "6.89"
+  },
+  {
+    "name": "SIDDHANT KUMAR KESHRI",
+    "roll": "2K21/EC/218",
+    "cgpa": "8.45"
+  },
+  {
+    "name": "SIDDHARTH CHAUDHARY",
+    "roll": "2K21/EC/219",
+    "cgpa": "7.52"
+  },
+  {
+    "name": "SIDDHARTH SHARMA",
+    "roll": "2K21/EC/220",
+    "cgpa": "8.61"
+  },
+  {
+    "name": "SIDDHARTHA SINGH",
+    "roll": "2K21/EC/221",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "SINCHAN ROY",
+    "roll": "2K21/EC/222",
+    "cgpa": "8.30"
+  },
+  {
+    "name": "SOHAN SINGH MEENA",
+    "roll": "2K21/EC/223",
+    "cgpa": "4.59"
+  },
+  {
+    "name": "SOMYA SINGH",
+    "roll": "2K21/EC/224",
+    "cgpa": "7.25"
+  },
+  {
+    "name": "SRIVATSA PRASAD",
+    "roll": "2K21/EC/226",
+    "cgpa": "6.88"
+  },
+  {
+    "name": "SUMEET KUMAR SHAH",
+    "roll": "2K21/EC/228",
+    "cgpa": "6.44"
+  },
+  {
+    "name": "SURAJ KUMAR MOURYA",
+    "roll": "2K21/EC/229",
+    "cgpa": "6.68"
+  },
+  {
+    "name": "SWARIT SINGH",
+    "roll": "2K21/EC/231",
+    "cgpa": "6.21"
+  },
+  {
+    "name": "TANISHQ RAJ",
+    "roll": "2K21/EC/232",
+    "cgpa": "8.66"
+  },
+  {
+    "name": "TINA JAIN",
+    "roll": "2K21/EC/234",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "TRISHIR BUDHIRAJA",
+    "roll": "2K21/EC/235",
+    "cgpa": "9.49"
+  },
+  {
+    "name": "UDAY MEHTANI",
+    "roll": "2K21/EC/236",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "UJJAWAL GIRI",
+    "roll": "2K21/EC/237",
+    "cgpa": "6.51"
+  },
+  {
+    "name": "UJJWAL KASHYAP",
+    "roll": "2K21/EC/238",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "UTKARSH PATEL",
+    "roll": "2K21/EC/239",
+    "cgpa": "5.93"
+  },
+  {
+    "name": "VANSH SINGH",
+    "roll": "2K21/EC/241",
+    "cgpa": "7.14"
+  },
+  {
+    "name": "VARUN VERMA",
+    "roll": "2K21/EC/242",
+    "cgpa": "8.41"
+  },
+  {
+    "name": "VEDANT GUPTA",
+    "roll": "2K21/EC/243",
+    "cgpa": "8.81"
+  },
+  {
+    "name": "VIBHINN SINGHAL",
+    "roll": "2K21/EC/244",
+    "cgpa": "8.05"
+  },
+  {
+    "name": "VIKASH",
+    "roll": "2K21/EC/246",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "VIPUL AGGARWAL",
+    "roll": "2K21/EC/247",
+    "cgpa": "6.58"
+  },
+  {
+    "name": "VISHAL JHA",
+    "roll": "2K21/EC/248",
+    "cgpa": "8.21"
+  },
+  {
+    "name": "VISHAL VERMA",
+    "roll": "2K21/EC/249",
+    "cgpa": "7.05"
+  },
+  {
+    "name": "VIVEK",
+    "roll": "2K21/EC/250",
+    "cgpa": "5.97"
+  },
+  {
+    "name": "VIVEK VERMA",
+    "roll": "2K21/EC/251",
+    "cgpa": "8.34"
+  },
+  {
+    "name": "YASH",
+    "roll": "2K21/EC/253",
+    "cgpa": "8.16"
+  },
+  {
+    "name": "YASH GARG",
+    "roll": "2K21/EC/254",
+    "cgpa": "8.60"
+  },
+  {
+    "name": "YASHASHVI MANN",
+    "roll": "2K21/EC/256",
+    "cgpa": "7.90"
+  },
+  {
+    "name": "YASHU TANDON",
+    "roll": "2K21/EC/257",
+    "cgpa": "5.70"
+  },
+  {
+    "name": "YUVRAJ SINGH",
+    "roll": "2K21/EC/258",
+    "cgpa": "8.26"
+  },
+  {
+    "name": "NITEESH ROHELA",
+    "roll": "2K21/EE/201",
+    "cgpa": "7.27"
+  },
+  {
+    "name": "NITESH KUMAR",
+    "roll": "2K21/EE/202",
+    "cgpa": "6.92"
+  },
+  {
+    "name": "NITESH KUMAR",
+    "roll": "2K21/EE/203",
+    "cgpa": "7.13"
+  },
+  {
+    "name": "PARTH AGGARWAL",
+    "roll": "2K21/EE/206",
+    "cgpa": "8.81"
+  },
+  {
+    "name": "PARTHIV DAS",
+    "roll": "2K21/EE/207",
+    "cgpa": "7.91"
+  },
+  {
+    "name": "PHOWLTHAHRING K LANGHU",
+    "roll": "2K21/EE/208",
+    "cgpa": "3.88"
+  },
+  {
+    "name": "PIYUSH JAISWAL",
+    "roll": "2K21/EE/209",
+    "cgpa": "7.15"
+  },
+  {
+    "name": "PIYUSH KUMAR",
+    "roll": "2K21/EE/210",
+    "cgpa": "9.69"
+  },
+  {
+    "name": "PIYUSH SINHA",
+    "roll": "2K21/EE/211",
+    "cgpa": "8.09"
+  },
+  {
+    "name": "PRABHAT MALIK",
+    "roll": "2K21/EE/212",
+    "cgpa": "7.62"
+  },
+  {
+    "name": "PRASOON KUMAR",
+    "roll": "2K21/EE/215",
+    "cgpa": "7.60"
+  },
+  {
+    "name": "PRATEEK GOEL",
+    "roll": "2K21/EE/216",
+    "cgpa": "7.35"
+  },
+  {
+    "name": "PRATHAM GUPTA",
+    "roll": "2K21/EE/217",
+    "cgpa": "7.67"
+  },
+  {
+    "name": "PRATHAM JAISWAL",
+    "roll": "2K21/EE/218",
+    "cgpa": "7.65"
+  },
+  {
+    "name": "PREMAYUSH CHAUHAN",
+    "roll": "2K21/EE/220",
+    "cgpa": "4.50"
+  },
+  {
+    "name": "PRIYANKA",
+    "roll": "2K21/EE/222",
+    "cgpa": "6.31"
+  },
+  {
+    "name": "PRIYANKA KUMARI",
+    "roll": "2K21/EE/223",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "PRIYANSHU",
+    "roll": "2K21/EE/224",
+    "cgpa": "7.46"
+  },
+  {
+    "name": "PRIYANSHU LAKRA",
+    "roll": "2K21/EE/225",
+    "cgpa": "7.12"
+  },
+  {
+    "name": "PRIYANSHU SATTAVAN",
+    "roll": "2K21/EE/226",
+    "cgpa": "5.81"
+  },
+  {
+    "name": "PRIYANSHU SINHA",
+    "roll": "2K21/EE/227",
+    "cgpa": "9.45"
+  },
+  {
+    "name": "PRIYANSHU VERMA",
+    "roll": "2K21/EE/228",
+    "cgpa": "7.79"
+  },
+  {
+    "name": "PULKIT DABAS",
+    "roll": "2K21/EE/229",
+    "cgpa": "8.25"
+  },
+  {
+    "name": "PUNYA JAIN",
+    "roll": "2K21/EE/230",
+    "cgpa": "8.19"
+  },
+  {
+    "name": "RAGHAV GUPTA",
+    "roll": "2K21/EE/232",
+    "cgpa": "7.01"
+  },
+  {
+    "name": "RAHUL GUPTA",
+    "roll": "2K21/EE/234",
+    "cgpa": "7.26"
+  },
+  {
+    "name": "RAJAN KUMAR",
+    "roll": "2K21/EE/235",
+    "cgpa": "6.84"
+  },
+  {
+    "name": "RIDHIK ANAND",
+    "roll": "2K21/EE/236",
+    "cgpa": "6.85"
+  },
+  {
+    "name": "RISHABH JHA",
+    "roll": "2K21/EE/237",
+    "cgpa": "7.57"
+  },
+  {
+    "name": "RITVIK GOPALKA",
+    "roll": "2K21/EE/238",
+    "cgpa": "7.41"
+  },
+  {
+    "name": "ROHAN AHLAWAT",
+    "roll": "2K21/EE/239",
+    "cgpa": "7.83"
+  },
+  {
+    "name": "ROSHAN KUMAR",
+    "roll": "2K21/EE/240",
+    "cgpa": "8.09"
+  },
+  {
+    "name": "SABYASACHI BISWAL",
+    "roll": "2K21/EE/241",
+    "cgpa": "8.15"
+  },
+  {
+    "name": "SACHIN POKHRIYAL",
+    "roll": "2K21/EE/242",
+    "cgpa": "8.35"
+  },
+  {
+    "name": "SAHAJ GARG",
+    "roll": "2K21/EE/243",
+    "cgpa": "8.80"
+  },
+  {
+    "name": "SAHIL",
+    "roll": "2K21/EE/244",
+    "cgpa": "7.86"
+  },
+  {
+    "name": "SAHIL KUMAR",
+    "roll": "2K21/EE/245",
+    "cgpa": "5.89"
+  },
+  {
+    "name": "SAHIL KUMAR",
+    "roll": "2K21/EE/246",
+    "cgpa": "4.71"
+  },
+  {
+    "name": "SAILI MISHRA",
+    "roll": "2K21/EE/247",
+    "cgpa": "6.85"
+  },
+  {
+    "name": "SAJAL S NANDA",
+    "roll": "2K21/EE/248",
+    "cgpa": "7.30"
+  },
+  {
+    "name": "SAKET RAJ",
+    "roll": "2K21/EE/249",
+    "cgpa": "7.95"
+  },
+  {
+    "name": "SAMAR PRATAP SINGH",
+    "roll": "2K21/EE/251",
+    "cgpa": "6.29"
+  },
+  {
+    "name": "SAMARTH GUPTA",
+    "roll": "2K21/EE/252",
+    "cgpa": "7.23"
+  },
+  {
+    "name": "SAMARTH NARANG",
+    "roll": "2K21/EE/253",
+    "cgpa": "7.59"
+  },
+  {
+    "name": "SANGEETA MONDAL",
+    "roll": "2K21/EE/254",
+    "cgpa": "8.47"
+  },
+  {
+    "name": "SANYAM",
+    "roll": "2K21/EE/255",
+    "cgpa": "7.70"
+  },
+  {
+    "name": "SARTHAK GROVER",
+    "roll": "2K21/EE/258",
+    "cgpa": "9.48"
+  },
+  {
+    "name": "SARTHAK SHARMA",
+    "roll": "2K21/EE/259",
+    "cgpa": "8.32"
+  },
+  {
+    "name": "SARTHAK SINGH",
+    "roll": "2K21/EE/260",
+    "cgpa": "7.47"
+  },
+  {
+    "name": "SASHWAT SINHA",
+    "roll": "2K21/EE/262",
+    "cgpa": "7.14"
+  },
+  {
+    "name": "SHASHANK SHAHI",
+    "roll": "2K21/EE/263",
+    "cgpa": "8.51"
+  },
+  {
+    "name": "SHASHWAT DASH",
+    "roll": "2K21/EE/265",
+    "cgpa": "7.09"
+  },
+  {
+    "name": "SHASWAT SHIVAM",
+    "roll": "2K21/EE/266",
+    "cgpa": "6.37"
+  },
+  {
+    "name": "SHIVAM MITTAL",
+    "roll": "2K21/EE/269",
+    "cgpa": "8.56"
+  },
+  {
+    "name": "SHOBHIT JAIN",
+    "roll": "2K21/EE/270",
+    "cgpa": "9.36"
+  },
+  {
+    "name": "SHRESHTH MOHANTY",
+    "roll": "2K21/EE/271",
+    "cgpa": "4.00"
+  },
+  {
+    "name": "SHRISTI JAYANT",
+    "roll": "2K21/EE/273",
+    "cgpa": "6.95"
+  },
+  {
+    "name": "SHUBHAM ANAND",
+    "roll": "2K21/EE/274",
+    "cgpa": "5.08"
+  },
+  {
+    "name": "SHUBHAM KUMAR",
+    "roll": "2K21/EE/275",
+    "cgpa": "6.39"
+  },
+  {
+    "name": "SHUBHAM MEENA",
+    "roll": "2K21/EE/276",
+    "cgpa": "7.12"
+  },
+  {
+    "name": "SHUBHAM MODI",
+    "roll": "2K21/EE/277",
+    "cgpa": "8.14"
+  },
+  {
+    "name": "SHUBHAM SINGH",
+    "roll": "2K21/EE/278",
+    "cgpa": "7.40"
+  },
+  {
+    "name": "SHUBHAM VASHISHT",
+    "roll": "2K21/EE/279",
+    "cgpa": "8.92"
+  },
+  {
+    "name": "SHUBHOJIT GHOSH",
+    "roll": "2K21/EE/280",
+    "cgpa": "7.60"
+  },
+  {
+    "name": "SHUVADEEP BISWAS",
+    "roll": "2K21/EE/281",
+    "cgpa": "7.54"
+  },
+  {
+    "name": "SHYAM KUMAR NEOPANEY",
+    "roll": "2K21/EE/282",
+    "cgpa": "7.45"
+  },
+  {
+    "name": "SIDDHANT BANGER",
+    "roll": "2K21/EE/283",
+    "cgpa": "6.84"
+  },
+  {
+    "name": "SIDDHANT SINGH",
+    "roll": "2K21/EE/284",
+    "cgpa": "4.52"
+  },
+  {
+    "name": "SIDDHARTH ARORA",
+    "roll": "2K21/EE/285",
+    "cgpa": "8.20"
+  },
+  {
+    "name": "SIDDHARTH KUMAR",
+    "roll": "2K21/EE/286",
+    "cgpa": "7.49"
+  },
+  {
+    "name": "SIDDHARTH VASHISHAT",
+    "roll": "2K21/EE/287",
+    "cgpa": "8.70"
+  },
+  {
+    "name": "SIDHARTH KAPOOR",
+    "roll": "2K21/EE/288",
+    "cgpa": "7.41"
+  },
+  {
+    "name": "SIMARJEET SINGH MEHRA",
+    "roll": "2K21/EE/289",
+    "cgpa": "5.84"
+  },
+  {
+    "name": "SOUMYA MEENA",
+    "roll": "2K21/EE/291",
+    "cgpa": "4.59"
+  },
+  {
+    "name": "SUBHANSHU SETHI",
+    "roll": "2K21/EE/293",
+    "cgpa": "6.73"
+  },
+  {
+    "name": "SUJAL GUPTA",
+    "roll": "2K21/EE/294",
+    "cgpa": "7.28"
+  },
+  {
+    "name": "SUMIT ANAND",
+    "roll": "2K21/EE/295",
+    "cgpa": "7.00"
+  },
+  {
+    "name": "SUMIT CHAURASIA",
+    "roll": "2K21/EE/296",
+    "cgpa": "7.94"
+  },
+  {
+    "name": "SUNNY KUMAR DAHIYA",
+    "roll": "2K21/EE/297",
+    "cgpa": "5.90"
+  },
+  {
+    "name": "SURAJ KUMAR",
+    "roll": "2K21/EE/298",
+    "cgpa": "6.61"
+  },
+  {
+    "name": "SWASTIK BAJPAI",
+    "roll": "2K21/EE/299",
+    "cgpa": "8.76"
+  },
+  {
+    "name": "TANUR",
+    "roll": "2K21/EE/300",
+    "cgpa": "8.37"
+  },
+  {
+    "name": "TARAN PAL SINGH",
+    "roll": "2K21/EE/302",
+    "cgpa": "7.74"
+  },
+  {
+    "name": "UMANG KARTIKEY",
+    "roll": "2K21/EE/304",
+    "cgpa": "9.08"
+  },
+  {
+    "name": "UNNAT BHAROL",
+    "roll": "2K21/EE/305",
+    "cgpa": "7.25"
+  },
+  {
+    "name": "VAIBHAV JAIN",
+    "roll": "2K21/EE/306",
+    "cgpa": "9.58"
+  },
+  {
+    "name": "VAIBHAV PRATAP SINGH",
+    "roll": "2K21/EE/307",
+    "cgpa": "8.41"
+  },
+  {
+    "name": "VANSH TAYAL",
+    "roll": "2K21/EE/308",
+    "cgpa": "8.00"
+  },
+  {
+    "name": "VASUDEV DEWANGAN",
+    "roll": "2K21/EE/309",
+    "cgpa": "4.40"
+  },
+  {
+    "name": "VIKRAM JANGIR",
+    "roll": "2K21/EE/310",
+    "cgpa": "6.59"
+  },
+  {
+    "name": "VINAYAK SAXENA",
+    "roll": "2K21/EE/311",
+    "cgpa": "8.45"
+  },
+  {
+    "name": "VINIT KUMAR",
+    "roll": "2K21/EE/312",
+    "cgpa": "8.18"
+  },
+  {
+    "name": "YASH KUMAR RANA",
+    "roll": "2K21/EE/313",
+    "cgpa": "8.63"
+  },
+  {
+    "name": "YASH MAHESHWARI",
+    "roll": "2K21/EE/314",
+    "cgpa": "7.53"
+  },
+  {
+    "name": "YASHARTH SINGH",
+    "roll": "2K21/EE/315",
+    "cgpa": "8.04"
+  },
+  {
+    "name": "YASHWARDHAN SINGH RAJORA",
+    "roll": "2K21/EE/316",
+    "cgpa": "7.28"
+  },
+  {
+    "name": "YOGENDRA TIWARI",
+    "roll": "2K21/EE/317",
+    "cgpa": "8.11"
+  },
+  {
+    "name": "YOGESH KUMAR",
+    "roll": "2K21/EE/318",
+    "cgpa": "8.32"
+  },
+  {
+    "name": "YOGESH KUMAR MEENA",
+    "roll": "2K21/EE/319",
+    "cgpa": "6.51"
+  },
+  {
+    "name": "YUREN AURELIO MANJATE",
+    "roll": "2K21/EE/320",
+    "cgpa": "5.84"
+  },
+  {
+    "name": "ZEENAT AARA",
+    "roll": "2K21/EE/321",
+    "cgpa": "8.48"
+  },
+  {
+    "name": "KEIBY FULGENCIO MUENDANE",
+    "roll": "2K21/EE/323",
+    "cgpa": "6.04"
+  }
+]

@@ -3,8 +3,8 @@ import fs from "fs/promises";
 
 function getStudents(branch) {
     var students = [];
-    var size = (branch == "CO") ? 600 : 200;
-    for (var i = 1; i <= size; i++) {
+    var size = (branch == "CO") ? 600 : 400;
+    for (var i = 201; i <= size; i++) {
         var rollNo = i < 10 ? "0" + i : i;
         students.push("2K21-" + branch + "-" + rollNo);
     }
@@ -12,7 +12,7 @@ function getStudents(branch) {
 }
 
 function scrapData() {
-    var branches = ["CO", "IT", "SE", "MC", "EC", "EE"];
+    var branches = ["EE"];
     var arr = [];
     for (var i = 0; i < branches.length; i++) {
         arr[i] = getStudents(branches[i]);
@@ -45,6 +45,8 @@ async function findResult(arr) {
                 var details = subdata;
                 console.log(details.name + ", " + details.roll + ", " + details.cgpa);
                 data.push(details);
+                await appendDataToFile(details);
+
 
             } catch (e) {
                 console.log(`Error fetching data for ${arr[i][j]}: ${e.message}`);
@@ -56,9 +58,25 @@ async function findResult(arr) {
     }
 
     await browser.close();
-    await fs.writeFile("results.json", JSON.stringify(data, null, 2));
-    console.log("Data saved");
+    // await fs.writeFile("results.json", JSON.stringify(data, null, 2));
+    // console.log("Data saved");
 }
+
+async function appendDataToFile(newData, filename = "results.json") {
+    try {
+      // Read existing data
+      const fileData = await fs.readFile(filename, "utf-8").catch(() => "[]"); // if file doesn't exist, start with empty array
+      const json = JSON.parse(fileData);
+  
+      // Append new data
+      json.push(newData);
+  
+      // Write updated data back
+      await fs.writeFile(filename, JSON.stringify(json, null, 2));
+    } catch (err) {
+      console.error("Error appending data to file:", err);
+    }
+  }
 
 // Start the script
 scrapData();
