@@ -1,4 +1,5 @@
 import puppeteer from "puppeteer";
+import fs from "fs/promises";
 
 function getStudents(branch) {
     var students = [];
@@ -55,6 +56,8 @@ async function findResult(arr) {
     }
 
     await browser.close();
+    await fs.writeFile("results.json", JSON.stringify(data, null, 2));
+    console.log("Data saved");
 }
 
 // Start the script
