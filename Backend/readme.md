@@ -39,7 +39,20 @@ models
 -> once we connect with mongo, and again import in different files it does not create a new instance apart give the same connected index, this is handle by node.
 
 // Read about
-export
+MIP
+export functions
+mongodb revise and complete playlist. (mongodb)
+webD revise (webdev, selectors)
+linux complete and revise
+
+
+LIP
+sql and postgres revise (sql, DBMS notes)
+portfolio revise
+gofood app revise
+inshorts revise
+egram panchayat revise
+
 
 
 
